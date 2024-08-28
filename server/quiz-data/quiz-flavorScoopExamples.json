@@ -1,0 +1,132 @@
+[
+    {
+        "quizName": "Flavor Scoop Examples",
+        "quizParam": "flavorScoopExamples",
+        "questionType": "multipleChoice",
+        "question": "How many scoops of flavor go in a medium Blondie Chiller?",
+        "answer": "choice1",
+        "answerChoices": {
+            "choice1": "1",
+            "choice2": "2",
+            "choice3": "3",
+            "choice4": "4"
+        }
+    },
+    {
+        "quizName": "Flavor Scoop Examples",
+        "quizParam": "flavorScoopExamples",
+        "questionType": "multipleChoice",
+        "question": "How many scoops of flavor go in a large Blondie Chiller?",
+        "answer": "choice2",
+        "answerChoices": {
+            "choice1": "1",
+            "choice2": "2",
+            "choice3": "3",
+            "choice4": "4"
+        }
+    },
+    {
+        "quizName": "Flavor Scoop Examples",
+        "quizParam": "flavorScoopExamples",
+        "questionType": "multipleChoice",
+        "question": "How many scoops of flavor go in a medium vanilla hot cocoa?",
+        "answer": "choice1",
+        "answerChoices": {
+            "choice1": "1",
+            "choice2": "2",
+            "choice3": "3",
+            "choice4": "4"
+        }
+    },
+    {
+        "quizName": "Flavor Scoop Examples",
+        "quizParam": "flavorScoopExamples",
+        "questionType": "multipleChoice",
+        "question": "How many scoops of flavor go in a large sugar-free strawberry Energy Chiller?",
+        "answer": "choice4",
+        "answerChoices": {
+            "choice1": "1",
+            "choice2": "2",
+            "choice3": "3",
+            "choice4": "4"
+        }
+    },
+    {
+        "quizName": "Flavor Scoop Examples",
+        "quizParam": "flavorScoopExamples",
+        "questionType": "multipleChoice",
+        "question": "How many scoops of flavor go in a large brown sugar cinnamon Chai Chiller?",
+        "answer": "choice2",
+        "answerChoices": {
+            "choice1": "1",
+            "choice2": "2",
+            "choice3": "3",
+            "choice4": "4"
+        }
+    },
+    {
+        "quizName": "Flavor Scoop Examples",
+        "quizParam": "flavorScoopExamples",
+        "questionType": "multipleChoice",
+        "question": "How many scoops of flavor go in a largte orange Seven Fizz?",
+        "answer": "choice4",
+        "answerChoices": {
+            "choice1": "1",
+            "choice2": "2",
+            "choice3": "3",
+            "choice4": "4"
+        }
+    },
+    {
+        "quizName": "Flavor Scoop Examples",
+        "quizParam": "flavorScoopExamples",
+        "questionType": "multipleChoice",
+        "question": "How many scoops of flavor go in a medium iced blue raspberry lemonade?",
+        "answer": "choice1",
+        "answerChoices": {
+            "choice1": "1",
+            "choice2": "2",
+            "choice3": "3",
+            "choice4": "4"
+        }
+    },
+    {
+        "quizName": "Flavor Scoop Examples",
+        "quizParam": "flavorScoopExamples",
+        "questionType": "multipleChoice",
+        "question": "How many scoops of flavor go in a large strawberry lemonade Chiller?",
+        "answer": "choice2",
+        "answerChoices": {
+            "choice1": "1",
+            "choice2": "2",
+            "choice3": "3",
+            "choice4": "4"
+        }
+    },
+    {
+        "quizName": "Flavor Scoop Examples",
+        "quizParam": "flavorScoopExamples",
+        "questionType": "multipleChoice",
+        "question": "How many scoops of flavor go in a small sugar-free Smooth 7 Chiller?",
+        "answer": "choice2",
+        "answerChoices": {
+            "choice1": "1",
+            "choice2": "2",
+            "choice3": "3",
+            "choice4": "4"
+        }
+    },
+    {
+        "quizName": "Flavor Scoop Examples",
+        "quizParam": "flavorScoopExamples",
+        "questionType": "multipleChoice",
+        "question": "How many scoops of flavor go in a medium coconut milk German Chocolate Chiller?",
+        "answer": "choice3",
+        "answerChoices": {
+            "choice1": "1",
+            "choice2": "2",
+            "choice3": "3",
+            "choice4": "4"
+        }
+    }
+]

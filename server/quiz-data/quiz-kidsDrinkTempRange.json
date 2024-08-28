@@ -1,0 +1,30 @@
+[
+    {
+        "quizName": "Kid's Drink Temp Range",
+        "quizParam": "kidsDrinkTempRange",
+        "questionType": "multipleChoice",
+        "question": "What is the correct temperature range for serving kids' drinks?",
+        "answer": "choice3",
+        "answerChoices": {
+            "choice1": "75°-85°",
+            "choice2": "100°-110°",
+            "choice3": "110°-120°",
+            "choice4": "120°-130°"
+        }
+    },
+    {
+        "quizName": "Kid's Drink Temp Range",
+        "quizParam": "kidsDrinkTempRange",
+        "questionType": "selectAll",
+        "question": "Select all temperatures that are too hot for kids' dirnks:",
+        "answer": ["choice4", "choice5", "choice6"],
+        "answerChoices": {
+            "choice1": "100°",
+            "choice2": "115°",
+            "choice3": "120°",
+            "choice4": "121°",
+            "choice5": "130°",
+            "choice6": "140°"
+        }
+    }
+]

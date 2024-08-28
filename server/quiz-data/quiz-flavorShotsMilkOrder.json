@@ -1,0 +1,29 @@
+[
+    {
+        "quizName": "Flavor / Shots / Milk Order",
+        "quizParam": "flavorShotsMilkOrder",
+        "questionType": "multipleChoice",
+        "question": "Select the correct order of ingredients for a Blondie.",
+        "answer": "choice1",
+        "answerChoices": {
+            "choice1": "Flavor, shots, milk",
+            "choice2": "Milk, shots, flavor",
+            "choice3": "Flavor, milk, shots",
+            "choice4": "Shots, flavor, milk",
+            "choice5": "Shots, milk, flavor"
+        }
+    },
+    {
+        "quizName": "Flavor / Shots / Milk Order",
+        "quizParam": "flavorShotsMilkOrder",
+        "questionType": "multipleChoice",
+        "question": "What is the second ingredient of any coffee drink that has flavor?",
+        "answer": "choice1",
+        "answerChoices": {
+            "choice1": "Shots",
+            "choice2": "Flavor",
+            "choice3": "Milk",
+            "choice4": "Ice, if applicable"
+        }
+    }
+]

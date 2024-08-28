@@ -1,0 +1,30 @@
+[
+    {
+        "quizName": "Extra Hot Temp",
+        "quizParam": "extraHotTemp",
+        "questionType": "multipleChoice",
+        "question": "What is the temperature range of a hot drink ordered 'extra hot'?",
+        "answer": "choice3",
+        "answerChoices": {
+            "choice1": "165°-170°",
+            "choice2": "170°-175°",
+            "choice3": "175°-180°",
+            "choice4": "180°-185°"
+        }
+    },
+    {
+        "quizName": "Extra Hot Temp",
+        "quizParam": "extraHotTemp",
+        "questionType": "selectAll",
+        "question": "Select all drink temperatures that would be too hot to serve if the drink is ordered 'extra hot':",
+        "answer": ["choice5", "choice6"],
+        "answerChoices": {
+            "choice1": "165°",
+            "choice2": "175°",
+            "choice3": "179°",
+            "choice4": "180°",
+            "choice5": "181°",
+            "choice6": "185°"
+        }
+    }
+]

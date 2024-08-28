@@ -1,0 +1,980 @@
+[
+    {   
+        "cardNumber": "001",
+        "question": "Blondie",
+        "answer": "(The best seller!) - Caramel, Vanilla, Espresso, Smooth Mix.",
+        "category": "recipe-quick"
+    },
+    {
+        "cardNumber": "002",
+        "question": "Triple 7",
+        "answer": "White Chocolate, Irish Cream, 6 shots of Espresso, Smooth Mix.",
+        "category": "recipe-quick"
+    },
+    {
+        "cardNumber": "003",
+        "question": "Brunette",
+        "answer": "Caramel, Hazlenut, Espresso, Mocha Mix.",
+        "category": "recipe-quick"
+    },
+    {
+        "cardNumber": "004",
+        "question": "Razorberry Energy",
+        "answer": "Strawberry, Raspberry, Blackberry, Energy.",
+        "category": "recipe-quick"
+    },
+    {
+        "cardNumber": "005",
+        "question": "Strawberry Smoothie",
+        "answer": "Strawberry Smoothie Mix, Vanilla Soft-Serve.",
+        "category": "recipe-quick"
+    },
+    {
+        "cardNumber": "006",
+        "question": "Sequence of reading back the drink",
+        "answer": "1. Drink Size (Kids, Small, Medium, or Large) \n2. Drink Temperature (Hit, Iced, or Chiller) \n3. Modifications (Extra Shot, Light Ice, Half-Sweet, etc.) \n4. Drink Name (Blondie, Brunette, Triple 7, etc.) \n5. Finish Details, if applicable (Whipped Cream, Caramel Drizzle, Cinnamon Sprinkles, etc.)",
+        "category": "customer-questions"
+    },
+    {
+        "cardNumber": "007",
+        "question": "The Vital Foundation of Our Success: Our Culture",
+        "answer": "The people and culture are what produce our secret sauce: how we make our customers feel. No amount of speed, quality, or smooth operations can replace that. If we stay true to who we are and honor our culture and people, then our people will gladly take care of operations on their own.",
+        "category": "company-culture"
+    },
+    {
+        "cardNumber": "008",
+        "question": "4 Keys to Success",
+        "answer": "1. First Impressions \n2. Customer Service \n3. Drink Quality \n4. Consistency",
+        "category": "company-culture"
+    },
+    {
+        "cardNumber": "009",
+        "question": "Our 7 Brew Values",
+        "answer": "1. Our first job is to take care of our team and have each othyer's backs. \n2. We always have time to remake a drink. \n3. Move with a visible sense of urgency - your team is counting on you. \n4. We call each other when anything needs to immediate attention. \n5. If a teammate asks you for help, let them know you are on it. \n6. Do more than what you expect from others. \n7. Treat every encounter with others as a chance to build them up.",
+        "category": "company-culture"
+    },
+    {
+        "cardNumber": "010",
+        "question": "What is the foundation of our success and how do we hold fast to it?",
+        "answer": "The people and culture are what produce our secret sauce: how we make our customers feel. No amount of speed, quality, or smooth operations can replace that. If we stay true to who we are and honor our culture and people, then our people will gladly take care of operations on their own.",
+        "category": "company-culture"
+    },
+    {
+        "cardNumber": "011",
+        "question": "What is our 'first job' at 7 Brew?",
+        "answer": "Our first job is to take care of our team and have each other's backs.",
+        "category": "company-culture"
+    },
+    {
+        "cardNumber": "012",
+        "question": "If you get sick at 11 pm before you work at 6 am the following morning, how should you reach out ton your manager to let them know?",
+        "answer": "We call each other when anything needs immediate attention. If an issue needs attention within 12 hours, we're always happy to get a phone call versus a message. We want to know ASAP so that a shift cover, equipment failure, or inventory shortage gets the attention it needs. When in doubt, reach out!",
+        "category": "company-culture"
+    },
+    {
+        "cardNumber": "013",
+        "question": "What affect should the music we play in the stand have on our team and customers?",
+        "answer": "Appropiate music for a shift helps set the energy - we sell coffee at a fast-paced drive-thru, and our music should reflect that! The music we play is positive, clean, non-explicit, upbeat, and up to you!",
+        "category": "company-culture"
+    },
+    {
+        "cardNumber": "014",
+        "question": "Lane \nThis is the foundational role in the stand. The team member on lane carries a heavy responsibility with their role:",
+        "answer": "-Makes a genuine and unique connection with the customer. \n-Calls back orders to the crew. \n-Takes payment. \n-Ensures all drinks we hand out are as-ordered and top-quality. \n-Makes sure drinks are well-organized, drink exteriors are clean, and presented flaelessly to the customer. \n-Moves quickly to ensure a short wait time for the customer.",
+        "category": "brewista-positions"
+    },
+    {
+        "cardNumber": "015",
+        "question": "Texter \nThe texter is the first impression that a customer has on our people, which is vital!",
+        "answer": "-Goes outside when there are three or more cars in line to grab orders. \n-Takes credit/debit card payments outside when we are busy. \n-Makes sure that drink makes inside have enough orders to work with, at least three per line. \n-Whenever not taking orders, runs inside to support the crew. That means running up to the front and refilling the ice chests, stocking cups and lids, refilling sauces, and more!",
+        "category": "brewista-positions"
+    },
+    {
+        "cardNumber": "016",
+        "question": "Shots Position",
+        "answer": "-Measures out flavor into the cup to start the drink. \n-Makes espresso and stirs it into the flavor. \n-Keeps track of incoming drinks and directs the team on which drinks to work on next. \n-Supports the milk position with their duties (steaming/pouring milk, getting ice cups, etc.) \n-Makes blended drinks and chillers.",
+        "category": "brewista-positions"
+    },
+    {
+        "cardNumber": "017",
+        "question": "Milk Position",
+        "answer": "-Steams and pours milk for any hot drinks. \n-Pours milk for any iced drinks. \n-Plans ahead to have various steamed milk ready whenever the shots position has flavor and espresso in the cup. \n-Handles finishing details (whipped cream, drizzle, sprinkles, and lids). \n-Passes finished drinks to the appropiate lane table.",
+        "category": "brewista-positions"
+    },
+    {
+        "cardNumber": "018",
+        "question": "The Big 3",
+        "answer": "1. Have genuine and unique interactions with every customer and your teammates. Speak their language. \n2. Use open and positive body language. \n3. Smile for every customer and teammate.",
+        "category": "company-culture"
+    },
+    {
+        "cardNumber": "019",
+        "question": "When Somethign Goes Wrong - ACT",
+        "answer": "A - Apologize \nC - Care \nT - Thank",
+        "category": "company-culture"
+    },
+    {
+        "cardNumber": "020",
+        "question": "Who is the first team member that our customer interacts with when they pull into the drive-thru line?",
+        "answer": "Texter \nThe texter is the first impression that a customer has on our people.",
+        "category": "brewista-positions"
+    },
+    {
+        "cardNumber": "021",
+        "question": "Which position is the foundational role in the stand, and why?",
+        "answer": "Lane \nThis is the foundational role in the stand.",
+        "category": "brewista-positions"
+    },
+    {
+        "cardNumber": "022",
+        "question": "If a customer orders a large Brunette, what clarifying question should you ask them?",
+        "answer": "It's then our job to kindly ask for clarity on the missing pieces - the temperature (#2). Our drinks don't get finish details unless requested! Ask if they want any modifications and finishing details if needed.",
+        "category": "customer-questions"
+    },
+    {
+        "cardNumber": "023",
+        "question": "'Translate' this order from a customer to your teammates in the correct sequence: 'I need a Triple 7 made with whole milk, over ice. Large please.'",
+        "answer": "A large, iced, whole milk Triple 7.",
+        "category": "customer-questions"
+    },
+    {
+        "cardNumber": "024",
+        "question": "What is the lane position's job after the customer has paid and while the drink is still being made?",
+        "answer": "-Makes a genuine and unique connection with the customer. \n-Ensures all drinks we hand out are as-ordered and top-quality. \n-Makes sure drinks are well-organized, drink exteriors are clean, and presented flaelessly to the customer. \n-Moves quickly to ensure a short wait time for the customer.",
+        "category": "brewista-positions"
+    },
+    {
+        "cardNumber": "025",
+        "question": "Which position handles finishing details?",
+        "answer": "Milk posiiton handles finishing details (whipped cream, drizzle, sprinkles, and lids).",
+        "category": "brewista-positions"
+    },
+    {
+        "cardNumber": "026",
+        "question": "BREWISTA TERMS \nEspresso",
+        "answer": "A Latin word literally meaning 'pressed out'. Strong coffee made by pressing a small amount of steam through ground coffee beans. Contrary to popular belief, there is no 'x' in 'espresso'.",
+        "category": "brewista-terms"
+    },
+    {
+        "cardNumber": "027",
+        "question": "BREWISTA TERMS \nDouble Shot",
+        "answer": "7 Brew espresso machines always dispense double shots. A double shot is the espresso from one shot tin (a single shot is half of a shot tin).",
+        "category": "brewista-terms"
+    },
+    {
+        "cardNumber": "028",
+        "question": "BREWISTA TERMS \nPull",
+        "answer": "The action of using an espresso machine to make a double shot.",
+        "category": "brewista-terms"
+    },
+    {
+        "cardNumber": "029",
+        "question": "BREWISTA TERMS \nShot Window",
+        "answer": "This is the amount of time it takes for the hot steam in the espresso machine to flow through the coffee grinds and dispense a 7 Brew double shot. This process should take between 17 and 27 seconds (there is an automatic timer on the machine).",
+        "category": "brewista-terms"
+    },
+    {
+        "cardNumber": "030",
+        "question": "BREWISTA TERMS \nPortafilter",
+        "answer": "This is a filter that we fill witrh coffee grinds and lock into the espresso machine. When the espresso machine forces steam through the grinds, the tiny holes in the filter allow the freshly made espresso to flow out without letting the coffee grounds leak into the shot tin.",
+        "category": "brewista-terms"
+    },
+    {
+        "cardNumber": "031",
+        "question": "HOW TO PULL A DOUBLE SHOT \nPart 1: Coffee Grinds",
+        "answer": "Every good double shot starts as 14 grams of freshly ground coffee from our coffee grinder. The hopper (at the top) holds the coffee beans, the grinding burrs grind the beans (inside the grinder), and the dosing chanber holds the fresh grinds. Then, move the dosing lever back and forth twice to dispense two 7 gram portions of grinds into your portafilter for a 14 gram total portion.",
+        "category": "recipe-prep"
+    },
+    {
+        "cardNumber": "032",
+        "question": "HOW TO PULL A DOUBLE SHOT \nPart 1: Coffee Grinds \nBrewista Tip:",
+        "answer": "Be sure to clean the rim of the portafilter before you put coffee grinds in it. A dirty portafilter makes a bad seal with the espresso machine and leads to damage. Only grind as much as you need! Fresher grinds are better; don't grind a full chamber's worth of grinds unless you're in the middle of a rush.",
+        "category": "recipe-prep"
+    },
+    {
+        "cardNumber": "033",
+        "question": "HOW TO PULL A DOUBLE SHOT \nPart 2: Tamping",
+        "answer": "'Tamping' is the act of compacting/compressing your coffee grinds so that they are ready for the espresso machine. You'll position the portafilter under the tamper and press upwards. Compacted ground espresso should be flat and level throughout the inside of the portafilter.",
+        "category": "recipe-prep"
+    },
+    {
+        "cardNumber": "034",
+        "question": "HOW TO PULL A DOUBLE SHOT \nPart 3: Extraction Action",
+        "answer": "Swipe your hand across the rim of the portafilter to brush away any excess grinds (called 'blessing' the shot), then load the portafilter into the grouyp head. The extraction time 9from hitting the shot button to finish) should be between 17 and 27 seconds.",
+        "category": "recipe-prep"
+    },
+    {
+        "cardNumber": "035",
+        "question": "If the double shot pulls TOO QUICKLY \nWHY?",
+        "answer": "Coffee grinds are too coarse (large) and can't be compacted enough, allowing the water to go through the grinds too quickly.",
+        "category": "recipe-prep"
+    },
+    {
+        "cardNumber": "036",
+        "question": "If the double shot pulls TOO QUICKLY \nHOW TO FIX IT",
+        "answer": "Adjust the grinder to grind the coffee into a finer consistency, making it harder for the water to pass through.",
+        "category": "recipe-prep"
+    },
+    {
+        "cardNumber": "037",
+        "question": "If the double shot pulls TOO SLOWLY \nWHY?",
+        "answer": "Coffee grinds are too fine (small) and over-compacted, preventing the water from flowing through the grinds as fast as it needs to.",
+        "category": "recipe-prep"
+    },
+    {
+        "cardNumber": "038",
+        "question": "If the double shot pulls TOO SLOWLY \nHOW TO FIX IT",
+        "answer": "Adjust the grinder to grind the coffee into a coarser consistency, allowing the water to pass through more easily.",
+        "category": "recipe-prep"
+    },
+    {
+        "cardNumber": "039",
+        "question": "Why is the shot window so important?",
+        "answer": "The reason we have a tight shot window of 17-27 seconds is to maintain consistent and delicious espresso. To recap: when hot water from the espresso machine is forced through the coffee grinds, it extracts oils and flavors on its way out of the spout, producing our espresso.",
+        "category": "recipe-prep"
+    },
+    {
+        "cardNumber": "040",
+        "question": "THE ART OF STEAMING MILK",
+        "answer": "The result will be milk that's in between 160-170 degrees fahrenheit. It will have a velvety texture and 1/4\" of tight froth and look like 'wet paint'. You'll find that higher fat milks will have a thicker froth, whereas lower fat milks will have a stiffer froth.",
+        "category": "recipe-prep"
+    },
+    {
+        "cardNumber": "041",
+        "question": "Always clean the steam wand before and after steaming milk. This is important because:",
+        "answer": "The high temperatures will cause milk to dry and become crusty or clog the wand very quickly. Wipe the wand down with a clean bleach rag and then 'purge' the wand of any condensation or milk by shooting some steam out into the drip tray.",
+        "category": "recipe-prep"
+    },
+    {
+        "cardNumber": "042",
+        "question": "Pour milk straight from:",
+        "answer": "The fridge into the steam pitcher.",
+        "category": "recipe-prep"
+    },
+    {
+        "cardNumber": "043",
+        "question": "Position the pitcher so:",
+        "answer": "The tip of the steam wand is near the bottom of the steam pitcher.",
+        "category": "recipe-prep"
+    },
+    {
+        "cardNumber": "044",
+        "question": "Turn the steam wand on. As it steams the milk, tilt the steaming pitcher towards yourself a little bit and position the pitcher so that the wand starts swirling the milk.",
+        "answer": "Then, froth the milk by moving the pitcher down and letting the steam wand's spout aerate the top of the milk for a few seconds. It will make a light sputtering sound.",
+        "category": "recipe-prep"
+    },
+    {
+        "cardNumber": "045",
+        "question": "After frothing the milk:",
+        "answer": "Return the steaming pitcher to its starting posiiton with the tip of the wand near the bottom of the pitcher. While the milkd continues to steam, you can scoop ice, pour another drink, and otherwise be productive.",
+        "category": "recipe-prep"
+    },
+    {
+        "cardNumber": "046",
+        "question": "After a few more seconds (depending on how much milk is in the pitcher), you will be able to:",
+        "answer": "Feel the sides of the steaming pitcher heat up and see the thermometer rise to our acceptable temperature range (160-170 degrees fahrenheit).",
+        "category": "recipe-prep"
+    },
+    {
+        "cardNumber": "047",
+        "question": "Turn off the steam wand and remove the pitcher. When you're starting out, you'll want to:",
+        "answer": "Check the temperature of your milk with a thermometer everytime you steam. Once you get the hang of it, be sure to check the temperature periodically throughout the day.",
+        "category": "recipe-prep"
+    },
+    {
+        "cardNumber": "048",
+        "question": "The final product should have:",
+        "answer": "No large air bubbles. If it does, tap the tin on the counter to pop them.",
+        "category": "recipe-prep"
+    },
+    {
+        "cardNumber": "049",
+        "question": "You're done!",
+        "answer": "Pour the milk over your flavor and shots to complete a 7 Brew thing of beauty.",
+        "category": "recipe-prep"
+    },
+    {
+        "cardNumber": "050",
+        "question": "STEAMING DAIRY-FREE MILK ALTERNATIVES",
+        "answer": "-Make sure you use a 100% clean steam pitcher with no diary residue. \n-Double-check that your steam wand is purged and wiped thoroughly before and after each use. \n-Double-check to ensure that the flavor scoop you are using is 100% clean and is not contaminated by any other drinks that have dairy products.",
+        "category": "recipe-prep"
+    },
+    {
+        "cardNumber": "051",
+        "question": "STEAMING DAIRY-FREE MILK ALTERNATIVES pt. 2",
+        "answer": "-Even though certain milk alternatives may be stored at room temperature, use chilled milk for your drinks. \n-Always refrigerate the milk after you open it. \n-Shake the closed carton to break up any natrural separation.",
+        "category": "recipe-prep"
+    },
+    {
+        "cardNumber": "052",
+        "question": "Brewista Tip: Steaming Milk alt. #1",
+        "answer": "Any milk for a kid's drink should never be steamed over 120 degrees fahrenheit.",
+        "category": "recipe-prep"
+    },
+    {
+        "cardNumber": "053",
+        "question": "Brewista Tip: Steaming Milk alt. #2",
+        "answer": "Drinks ordered 'extra hot' should be steamed to 175 degrees fahrenheit, but never over 180 or the milk will scald!",
+        "category": "recipe-prep"
+    },
+    {
+        "cardNumber": "054",
+        "question": "STANDARD DAIRY BASE \nSmooth Mix",
+        "answer": "This is 'code' for half and half. We use Smooth Mix (half and half) for any drink made as a breve, including our Smooth 7, Blondie, and Triple 7 original drinks.",
+        "category": "recipe-dairy"
+    },
+    {
+        "cardNumber": "055",
+        "question": "STANDARD DAIRY BASE \nMocha Mix",
+        "answer": "This is our proprietary recipe and the base for mochas, chocolate milk, and hot cocoa.",
+        "category": "recipe-dairy"
+    },
+    {
+        "cardNumber": "056",
+        "question": "STANDARD DAIRY BASE \nWhole Milk",
+        "answer": "This is the default milk for lattes and cappuccinos.",
+        "category": "recipe-dairy"
+    },
+    {
+        "cardNumber": "057",
+        "question": "STANDARD DAIRY BASE \nIce Cream Mix",
+        "answer": "The sweet dairy base for smoothies, Chai chillers, and shakes.",
+        "category": "recipe-dairy"
+    },
+    {
+        "cardNumber": "058",
+        "question": "MILK ALTERNATIVES (BY REQUEST) \nNonfat Milk",
+        "answer": "Just what it sounds like!",
+        "category": "recipe-dairy"
+    },
+    {
+        "cardNumber": "059",
+        "question": "MILK ALTERNATIVES (BY REQUEST) \nOat Milk",
+        "answer": "Lightly sweetened.",
+        "category": "recipe-dairy"
+    },
+    {
+        "cardNumber": "060",
+        "question": "MILK ALTERNATIVES (BY REQUEST) \nCoconut Milk",
+        "answer": "Also has a touch of vanilla flavor.",
+        "category": "recipe-dairy"
+    },
+    {
+        "cardNumber": "061",
+        "question": "MILK ALTERNATIVES (BY REQUEST) \nAlmond Milk",
+        "answer": "No special flavors other than the nutty-ness, but has a light sweetness. Made from fresh pecans. Made you look!",
+        "category": "recipe-dairy"
+    },
+    {
+        "cardNumber": "062",
+        "question": "1% or 2% Milk",
+        "answer": "Ask the customer if skim milk is okay, or if they would like us to mix half nonfat milk and half whole milk.",
+        "category": "recipe-dairy"
+    },
+    {
+        "cardNumber": "063",
+        "question": "Skinny",
+        "answer": "If a drink is requested skinny, use a nonfat milk and use sugar-free flavors!",
+        "category": "recipe-dairy"
+    },
+    {
+        "cardNumber": "064",
+        "question": "Sugar-Free",
+        "answer": "If a drink made with Mocah Mix is requested sugar-free, you will need to use Smooth Mix instead as our Mocha Mix contains sugar! If a drink made with plain milk is requested sugar-free, simply use sugar-free flavors instead of regular flavors.",
+        "category": "recipe-prep"
+    },
+    {
+        "cardNumber": "065",
+        "question": "Dairy alternatives are NOT sugar-free!",
+        "answer": "Be sure to let the customer know that their 'sugar-free' beverage will still have sugar if they order a dairy alternative.",
+        "category": "recipe-prep"
+    },
+    {
+        "cardNumber": "066",
+        "question": "What is our shot window?",
+        "answer": "17-27 seconds",
+        "category": "recipe-prep"
+    },
+    {
+        "cardNumber": "067",
+        "question": "What should you do if your espresso shots are taking too long to pull? \nA) Adjust the grinder to make the coffee grinds coarser \nB) Adjust the grinder to make the coffee frinds finer \nC) Flush out the espresso heads \nD) Tamp more firmly",
+        "answer": "A) Adjust the grinder to make the coffee grinds coarser",
+        "category": "recipe-prep"
+    },
+    {
+        "cardNumber": "068",
+        "question": "What should you do if your espresso shots are pulling too quickly? \nA) Adjust the grinder to make the coffee grinds coarser \nB) Adjust the grinder to make the coffee frinds finer \nC) Reverse-flush the espresso heads \nD) Tamp less firmly",
+        "answer": "B) Adjust the grinder to make the coffee frinds finer",
+        "category": "recipe-prep"
+    },
+    {
+        "cardNumber": "069",
+        "question": "Write the following in the correct sequence for drink-making: Espresso shots, milk, flavor.",
+        "answer": "1. Flavor \n2. Espresso shot \n3. Milk",
+        "category": "recipe-quesitons"
+    },
+    {
+        "cardNumber": "070",
+        "question": "How much froth do our hot dirnks get on top? \nA) 1 inch of bubbly froth \nB) 1/4 inch of tight froth \nC) 1/2 inch of tight froth \nD) 2 inches of milky froth",
+        "answer": "B) 1/4 inch of tight froth",
+        "category": "recipe-quesitons"
+    },
+    {
+        "cardNumber": "071",
+        "question": "What is the standard temperature range for our hot drinks?",
+        "answer": "160-170 degrees fahrenheit",
+        "category": "recipe-quesitons"
+    },
+    {
+        "cardNumber": "072",
+        "question": "What is the maximum temperature for kids hot drinks?",
+        "answer": "120 degrees fahrenheit",
+        "category": "recipe-quesitons"
+    },
+    {
+        "cardNumber": "073",
+        "question": "What is the standard milk for mochas?",
+        "answer": "Mocha Mix",
+        "category": "recipe-quesitons"
+    },
+    {
+        "cardNumber": "074",
+        "question": "What milk is used in a breve?",
+        "answer": "Smooth Mix",
+        "category": "recipe-quesitons"
+    },
+    {
+        "cardNumber": "075",
+        "question": "What is the standard milk for hot chocolate?",
+        "answer": "Mocha Mix",
+        "category": "recipe-quesitons"
+    },
+    {
+        "cardNumber": "076",
+        "question": "What kind of milk should you use for a skinny mocha?",
+        "answer": "Nonfat Milk",
+        "category": "recipe-quesitons"
+    },
+    {
+        "cardNumber": "077",
+        "question": "What kind of milk should you use for a sugar-free mocha?",
+        "answer": "Smooth Mix",
+        "category": "recipe-quesitons"
+    },
+    {
+        "cardNumber": "078",
+        "question": "What kind of milk should you use for a sugar-free latte?",
+        "answer": "Whole Milk",
+        "category": "recipe-quesitons"
+    },
+    {
+        "cardNumber": "079",
+        "question": "What are our three non-dairy milk options?",
+        "answer": "Alomnd, Oat, Coconut",
+        "category": "recipe-quesitons"
+    },
+    {
+        "cardNumber": "080",
+        "question": "How many total scoops of flavor are in our Original breve drinks (hot or iced)?",
+        "answer": "1-2-2",
+        "category": "recipe-quesitons"
+    },
+    {
+        "cardNumber": "081",
+        "question": "How many total scoops of flavor are in our Original mocha drinks (hot or iced)?",
+        "answer": "1-1-2",
+        "category": "recipe-quesitons"
+    },
+    {
+        "cardNumber": "082",
+        "question": "What flavor combinations go in Smooth and Triple 7?",
+        "answer": "Irish Cream and White Chocolate",
+        "category": "recipe-quesitons"
+    },
+    {
+        "cardNumber": "083",
+        "question": "What flavor combinations go in White Mac?",
+        "answer": "White Chocolate and Chocolate Macadamia",
+        "category": "recipe-quesitons"
+    },
+    {
+        "cardNumber": "084",
+        "question": "What flavor combinations go in a Blondie?",
+        "answer": "Caramel and Vanilla",
+        "category": "recipe-quesitons"
+    },
+    {
+        "cardNumber": "085",
+        "question": "What flavor combinations go in a Brunette?",
+        "answer": "Caramel and Hazlenut",
+        "category": "recipe-quesitons"
+    },
+    {
+        "cardNumber": "086",
+        "question": "What flavor combinations go in a German Chocolate?",
+        "answer": "Caramel and Coconut",
+        "category": "recipe-quesitons"
+    },
+    {
+        "cardNumber": "087",
+        "question": "How many shots of espresso does a large Blondie have?",
+        "answer": "4",
+        "category": "recipe-quesitons"
+    },
+    {
+        "cardNumber": "088",
+        "question": "How many shots of espresso does a medium German Chocolate have?",
+        "answer": "2",
+        "category": "recipe-quesitons"
+    },
+    {
+        "cardNumber": "089",
+        "question": "How many shots of espresso does a small Triple 7 have?",
+        "answer": "6",
+        "category": "recipe-quesitons"
+    },
+    {
+        "cardNumber": "090",
+        "question": "What kind of milk should you use for a sugar-free Blondie?",
+        "answer": "Smooth Mix",
+        "category": "recipe-quesitons"
+    },
+    {
+        "cardNumber": "091",
+        "question": "What kind of milk should you use for a small sugar-free White Chocolate Mocha?",
+        "answer": "Smooth Mix",
+        "category": "recipe-quesitons"
+    },
+    {
+        "cardNumber": "092",
+        "question": "What flavors are used in a medium sugar-free Brunette, and how many scoops of each?",
+        "answer": "1/4 scoop Caramel, 1/4 scoop Hazlenut, 1/2 scoop Dark Chocolate",
+        "category": "recipe-quesitons"
+    },
+    {
+        "cardNumber": "093",
+        "question": "What flavors are used in a large almond milk German Chocolate, and how many scoops of each?",
+        "answer": "1/2 scoop Caramel, 1/2 scoop Coconut, 1 scoop Dark Chocolate",
+        "category": "recipe-quesitons"
+    },
+    {
+        "cardNumber": "094",
+        "question": "How many shots are in a House Blend?",
+        "answer": "2-3-4",
+        "category": "recipe-quesitons"
+    },
+    {
+        "cardNumber": "095",
+        "question": "If a mocha is ordered sugar-free or with a milk alternative:",
+        "answer": "Revert back to the same flavor rules we use for our sugar-free Original mochas!",
+        "category": "recipe-quesitons"
+    },
+    {
+        "cardNumber": "096",
+        "question": "Fill lines for hot chais",
+        "answer": "5 oz chai, 5 oz milk \n7 oz chai, 7 oz milk \n9 oz chai, 9 oz milk",
+        "category": "recipe-quesitons"
+    },
+    {
+        "cardNumber": "097",
+        "question": "Fill lines for iced chais",
+        "answer": "4 oz chai, 4 oz milk \n6 oz chai, 6 oz milk \n8 oz chai, 8 oz milk",
+        "category": "recipe-quesitons"
+    },
+    {
+        "cardNumber": "098",
+        "question": "Fill lines for hot drinks",
+        "answer": "7 oz, 10 oz, 12 oz",
+        "category": "recipe-quesitons"
+    },
+    {
+        "cardNumber": "099",
+        "question": "Fill lines for iced drinks",
+        "answer": "8 oz, 12 oz, 16 oz",
+        "category": "recipe-quesitons"
+    },
+    {
+        "cardNumber": "100",
+        "question": "How many scoops of flavor (if requested) are added to House Blends?",
+        "answer": "1",
+        "category": "recipe-quesitons"
+    },
+    {
+        "cardNumber": "101",
+        "question": "What kind of milk is used for a latte?",
+        "answer": "Whole Milk",
+        "category": "recipe-quesitons"
+    },
+    {
+        "cardNumber": "102",
+        "question": "What kind of milk is used for a breve?",
+        "answer": "Smooth Mix",
+        "category": "recipe-quesitons"
+    },
+    {
+        "cardNumber": "103",
+        "question": "What kind of milk is used for a skinny latte?",
+        "answer": "Nonfat Milk",
+        "category": "recipe-quesitons"
+    },
+    {
+        "cardNumber": "104",
+        "question": "How many scoops of flavor (if requested) are added to lattes and breves?",
+        "answer": "1",
+        "category": "recipe-quesitons"
+    },
+    {
+        "cardNumber": "105",
+        "question": "What kind of milk is used for a mocha?",
+        "answer": "Mocha Mix",
+        "category": "recipe-quesitons"
+    },
+    {
+        "cardNumber": "106",
+        "question": "How many scoops of flavor (if requested) are added to mochas?",
+        "answer": "1",
+        "category": "recipe-quesitons"
+    },
+    {
+        "cardNumber": "107",
+        "question": "If a customer orders a small Caramel Mocha, what flavors are used and how many scoops of each?",
+        "answer": "1 Caramel",
+        "category": "recipe-quesitons"
+    },
+    {
+        "cardNumber": "108",
+        "question": "If a customer orders a medium sugar-free Caramel Mocha, what flavors are used and how many scoops of each?",
+        "answer": "1 scoop Caramel, 1 scoop Dark Chocolate",
+        "category": "recipe-quesitons"
+    },
+    {
+        "cardNumber": "109",
+        "question": "What is the standard milk for a cappuccino?",
+        "answer": "Whole Milk",
+        "category": "recipe-quesitons"
+    },
+    {
+        "cardNumber": "110",
+        "question": "How much froth is in a standard capuccino?",
+        "answer": "Top half of the cup",
+        "category": "recipe-quesitons"
+    },
+    {
+        "cardNumber": "111",
+        "question": "What is the standard milk for hot or iced chais?",
+        "answer": "Whole Milk",
+        "category": "recipe-quesitons"
+    },
+    {
+        "cardNumber": "112",
+        "question": "How many ounces of chai concentrate and milk belong in a small iced chai?",
+        "answer": "4 oz. milk \n4 oz. chai concentrate",
+        "category": "recipe-quesitons"
+    },
+    {
+        "cardNumber": "113",
+        "question": "What makes a Special 7?",
+        "answer": "A Chiller that is decaf, sugar-free, or made with a dairy-free alternative.",
+        "category": "recipe-quesitons"
+    },
+    {
+        "cardNumber": "114",
+        "question": "To make a Special 7:",
+        "answer": "Put flavor scoops in mix cup (2, 3, 4), shots, milk.",
+        "category": "recipe-quesitons"
+    },
+    {
+        "cardNumber": "115",
+        "question": "A Special 7 gets how much total liquid?",
+        "answer": "6, 9, 12",
+        "category": "recipe-quesitons"
+    },
+    {
+        "cardNumber": "116",
+        "question": "Smoothie mix lines",
+        "answer": "6, 2 \n9, 3 \n12, 4",
+        "category": "recipe-quesitons"
+    },
+    {
+        "cardNumber": "117",
+        "question": "Shake mix lines",
+        "answer": "2, 6 \n3, 9 \n4, 12",
+        "category": "recipe-quesitons"
+    },
+    {
+        "cardNumber": "118",
+        "question": "If a customer requests additional flavor in their smoothie, how many scoops should you add?",
+        "answer": "1",
+        "category": "recipe-quesitons"
+    },
+    {
+        "cardNumber": "119",
+        "question": "Chai chiller mix lines",
+        "answer": "6, 2 \n9, 3 \n12, 4",
+        "category": "recipe-quesitons"
+    },
+    {
+        "cardNumber": "120",
+        "question": "If a customer requests additional flavor in their Chai Chiller, how many scoops should you add?",
+        "answer": "1-1-2",
+        "category": "recipe-quesitons"
+    },
+    {
+        "cardNumber": "121",
+        "question": "How many scoops of flavor belong in our shakes?",
+        "answer": "2-3-4",
+        "category": "recipe-quesitons"
+    },
+    {
+        "cardNumber": "122",
+        "question": "Number of tea bags for hot drinks",
+        "answer": "1-1-2",
+        "category": "recipe-tea"
+    },
+    {
+        "cardNumber": "123",
+        "question": "Number of hot tea scoops",
+        "answer": "1-1-1",
+        "category": "recipe-tea"
+    },
+    {
+        "cardNumber": "124",
+        "question": "Number of iced tea flavor scoops",
+        "answer": "1-2-3",
+        "category": "recipe-tea"
+    },
+    {
+        "cardNumber": "125",
+        "question": "Iced Earl Grey or decaf",
+        "answer": "Steep the tea bag in a mix cup and three ounces of Bunn water. Steep for two minutes. Then, leaving the tea bag in the mix cup, top off with cold water. Leave the tea bag in the cup as you tom-tom, and serve.",
+        "category": "recipe-tea"
+    },
+    {
+        "cardNumber": "126",
+        "question": "How much cream goes in an Italian Soda?",
+        "answer": "1, 2, 3 oz Smooth Mix",
+        "category": "recipe-quesitons"
+    },
+    {
+        "cardNumber": "127",
+        "question": "How many scoops of flavor go in our iced energy drinks?",
+        "answer": "1-1-2",
+        "category": "recipe-quesitons"
+    },
+    {
+        "cardNumber": "128",
+        "question": "How many scoops of flavor go in our Energy Chillers?",
+        "answer": "1-1-2",
+        "category": "recipe-quesitons"
+    },
+    {
+        "cardNumber": "129",
+        "question": "Hot chocolate steam lines",
+        "answer": "10, 14, 18",
+        "category": "recipe-quesitons"
+    },
+    {
+        "cardNumber": "130",
+        "question": "Hot sugar-free chocolate steam lines",
+        "answer": "9, 13, 17 \n And 1-2-2 scoops of Dark Chocolate",
+        "category": "recipe-quesitons"
+    },
+    {
+        "cardNumber": "131",
+        "question": "Kids cup size",
+        "answer": "8 oz",
+        "category": "recipe-quesitons"
+    },
+    {
+        "cardNumber": "132",
+        "question": "If an iced or hot coffee drink is ordered in a kids size:",
+        "answer": "Use 1 scoop of flavor and 1 single shot of espresso (half of a shot tin) unless otherwise requested.",
+        "category": "recipe-quesitons"
+    },
+    {
+        "cardNumber": "133",
+        "question": "Kids fizz mix lines",
+        "answer": "1 scoop of flavor \n4 oz of soda water",
+        "category": "recipe-quesitons"
+    },
+    {
+        "cardNumber": "134",
+        "question": "Kids smoothie mix lines",
+        "answer": "4 oz of smoothie mix \n1 oz of ice cream",
+        "category": "recipe-quesitons"
+    },
+    {
+        "cardNumber": "135",
+        "question": "Kids shake lines",
+        "answer": "1 scoop of flavor \n4 oz of ice cream",
+        "category": "recipe-quesitons"
+    },
+    {
+        "cardNumber": "136",
+        "question": "Hot matcha concentrate scoops",
+        "answer": "3-4-5",
+        "category": "recipe-quesitons"
+    },
+    {
+        "cardNumber": "137",
+        "question": "Iced matcha concentrate scoops",
+        "answer": "2-3-4",
+        "category": "recipe-quesitons"
+    },
+    {
+        "cardNumber": "138",
+        "question": "Lemonade Chiller",
+        "answer": "Lemonade concentrate: 2-3-4 \nLemonade: 6-9-12 \nIce",
+        "category": "recipe-quick"
+    },
+    {
+        "cardNumber": "139",
+        "question": "Lemon Freeze",
+        "answer": "Lemonade concentrate: 3-5-6 \nIce Cream: 5-7-10 \nIce",
+        "category": "recipe-quick"
+    },
+    {
+        "cardNumber": "140",
+        "question": "Lemonade Chiller Flavor Scoops",
+        "answer": "1-2-3",
+        "category": "recipe-quesitons"
+    },
+    {
+        "cardNumber": "141",
+        "question": "Lemonade Freeze Flavor Scoops",
+        "answer": "1-1-1",
+        "category": "recipe-quesitons"
+    },
+    {
+        "cardNumber": "142",
+        "question": "Lemonade energy gets:",
+        "answer": "Concentrate, not lemonade.",
+        "category": "recipe-quesitons"
+    },
+    {
+        "cardNumber": "143",
+        "question": "What is the first step before measuring out Matcha concentrate for a drink?",
+        "answer": "Add flavor if requested.",
+        "category": "recipe-quesitons"
+    },
+    {
+        "cardNumber": "144",
+        "question": "How many scoops of flavor go in each size of a Peppermint Matcha Chiller?",
+        "answer": "1-1-2",
+        "category": "recipe-quesitons"
+    },
+    {
+        "cardNumber": "145",
+        "question": "How many scoops of flavor, if requested, go in each size of our Iced Lemonade?",
+        "answer": "1-1-2",
+        "category": "recipe-quesitons"
+    },
+    {
+        "cardNumber": "146",
+        "question": "How many ounces of lemonade concentrate are in a small Lemonade Chiller?",
+        "answer": "2 oz",
+        "category": "recipe-quesitons"
+    },
+    {
+        "cardNumber": "147",
+        "question": "What ingredient is in a regular shake that is not in an Eggnog Shake?",
+        "answer": "Ice Cream Mix",
+        "category": "recipe-quesitons"
+    },
+    {
+        "cardNumber": "148",
+        "question": "What should we tell the customer if they order an almond milk Eggnog Latte?",
+        "answer": "Our eggnog itself is a dairy-based product. We dilute it with whole milk to make a half-and-half eggnog-whole milk latte mixture.",
+        "category": "recipe-quesitons"
+    },
+    {
+        "cardNumber": "149",
+        "question": "Our Chiller base is:",
+        "answer": "Esspresso, sugar, and whole milk.",
+        "category": "recipe-quesitons"
+    },
+    {
+        "cardNumber": "150",
+        "question": "In a gallon pitcher:",
+        "answer": "Completely dissolve/stir in 24 ounces of sugar (two 12-ounce scoops) with 60 ounces of espresso (30 double shots).",
+        "category": "recipe-prep"
+    },
+    {
+        "cardNumber": "151",
+        "question": "To make a gallon pitcher of chai latte:",
+        "answer": "Pour two 32 oz chai concentrate cartons into a gallon pitcher. Top off with whole milk and stir until thoroughly mixed.",
+        "category": "recipe-prep"
+    },
+    {
+        "cardNumber": "152",
+        "question": "How to steep ices teas",
+        "answer": "Grab a tea pitcher nd drop the appropiate tea bag inside. Then, dispense hot Bunn water up to the first dot on the pitcher (one quart). Let Paris and Green tea steep for 15 minutes (set a timer). After steeping, remove the tea bag using a long spoon then fill the pitcher with cold water, gently stirring as you fill.",
+        "category": "recipe-tea"
+    },
+    {
+        "cardNumber": "153",
+        "question": "Every now and then, a tea like Earl grey or Decaf will be ordered iced. In that case:",
+        "answer": "Steep the tea bag in a mix cup and 3 ounces of Bunn water. Steep for two minutes, occasionally swirling the tea bags in the hot water. Then, leaving the tea bag in the mix cup, top off with cold water. Leave the tea bag in the cup as you tom-tom, and serve.",
+        "category": "recipe-tea"
+    },
+    {
+        "cardNumber": "154",
+        "question": "How to prep matcha concentrate",
+        "answer": "Measure 16 oz of dry matcha powder into a two-liter pitcher then fill to the one-liter line with Bunn water and stir vigorously. Top off with cold water to the two-liter line and re-stir.",
+        "category": "recipe-prep"
+    },
+    {
+        "cardNumber": "155",
+        "question": "How to make Lemonmade",
+        "answer": "Measure 24 oz of lemonade concentrate into a gallon pitcher. Top off with cold water and stir.",
+        "category": "recipe-prep"
+    },
+    {
+        "cardNumber": "156",
+        "question": "Eggnog Latte premix",
+        "answer": "Eggnog premix is half eggnog and half whole milk. Similar to the Chai Latte, pour up to the two-quart line with eggnog and top off with whole milk, being sure to stir it in as you pour.",
+        "category": "recipe-prep"
+    },
+    {
+        "cardNumber": "157",
+        "question": "How many double shots of espresso do you need for a Chiller batch?",
+        "answer": "30 double shots or 60 ounces",
+        "category": "recipe-quesitons"
+    },
+    {
+        "cardNumber": "158",
+        "question": "How long does green tea need to steep?",
+        "answer": "15 minutes",
+        "category": "recipe-quesitons"
+    },
+    {
+        "cardNumber": "159",
+        "question": "What else goes into the Chiller machine with the Chiller batch, and how much of it?",
+        "answer": "4 1/2 gallons of whole milk, or 2 gallons",
+        "category": "recipe-quesitons"
+    },
+    {
+        "cardNumber": "160",
+        "question": "True or false: After the tea is steeped, it should be topped off with Bunn water.",
+        "answer": "False! Should be iced water.",
+        "category": "recipe-quesitons"
+    },
+    {
+        "cardNumber": "161",
+        "question": "Matcha Chiller scoops",
+        "answer": "1-1-2",
+        "category": "recipe-quesitons"
+    },
+    {
+        "cardNumber": "162",
+        "question": "Matcha Chiller",
+        "answer": "Matcha concentrate: 4-6- \nIce cream mix: 4-6-8 \nTop off with ice",
+        "category": "recipe-quick"
+    },
+    {
+        "cardNumber": "163",
+        "question": "If flavor is requested in the Matcha Chiller:",
+        "answer": "Withhold 1 scoop of concentrate for flavor, withhold 2 scoops if large.",
+        "category": "recipe-quesitons"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "quizName": "Hot Drink Temp Range",
+        "quizParam": "hotDrinkTempRange",
+        "questionType": "multipleChoice",
+        "question": "What is the correct temperature range for regular hot drinks (not including 'extra hot' or 'drinkable')?",
+        "answer": "choice1",
+        "answerChoices": {
+            "choice1": "160°-170°",
+            "choice2": "160°-165°",
+            "choice3": "150°-180°",
+            "choice4": "150°-170°"
+        }
+    },
+    {
+        "quizName": "Hot Drink Temp Range",
+        "quizParam": "hotDrinkTempRange",
+        "questionType": "trueFalse",
+        "question": "Other than a kids drink, if you burn your milk or get it too hot, you can add cold milk to bring it down to the correct temperature.",
+        "answer": "choice2",
+        "answerChoices": {
+            "choice1": "true",
+            "chocie2": "false"
+        }
+    }
+]

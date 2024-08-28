@@ -1,0 +1,54 @@
+[
+    {
+        "quizName": "Chai Recipes",
+        "quizParam": "chaiRecipes",
+        "questionType": "multipleChoice",
+        "question": "What is the correct recipe for a small iced caramel chai latte?",
+        "answer": "choice2",
+        "answerChoices": {
+            "choice1": "1 scoop caramel, fill to the 6 oz line with chai latte mix",
+            "choice2": "1 scoop caramel, fill to the 8 oz line with chai latte mix",
+            "choice3": "2 scoop caramel, fill to the 8 oz line with chai latte mix",
+            "choice4": "2 scoop caramel, fill to the 12 oz line with chai latte mix"
+        }
+    },
+    {
+        "quizName": "Chai Recipes",
+        "quizParam": "chaiRecipes",
+        "questionType": "multipleChoice",
+        "question": "What is the correct recipe for a large iced vanilla chai latte?",
+        "answer": "choice2",
+        "answerChoices": {
+            "choice1": "1 scoop vanilla, fill to the 12 oz line with chai latte mix",
+            "choice2": "1 scoop vanilla, fill to the 16 oz line with chai latte mix",
+            "choice3": "2 scoop vanilla, fill to the 12 oz line with chai latte mix",
+            "choice4": "3 scoop vanilla, fill to the 16 oz line with chai latte mix"
+        }
+    },
+    {
+        "quizName": "Chai Recipes",
+        "quizParam": "chaiRecipes",
+        "questionType": "multipleChoice",
+        "question": "What is the correct recipe for a medium brown sugar cinnamon chai Chiller?",
+        "answer": "choice2",
+        "answerChoices": {
+            "choice1": "1 scoop brown sugar cinnamon, fill to the 3 oz line with ice cream mix, then to the 12 with chai concentrate",
+            "choice2": "1 scoop brown sugar cinnamon, fill to the 9 oz line with chai concentrate, then to the 12 with ice cream mix",
+            "choice3": "3 scoop brown sugar cinnamon, fill to the 6 oz line with chai concentrate, then to the 12 with ice cream mix",
+            "choice4": "3 scoop brown sugar cinnamon, fill to the 12 oz line with chai latte mix"
+        }
+    },
+    {
+        "quizName": "Chai Recipes",
+        "quizParam": "chaiRecipes",
+        "questionType": "multipleChoice",
+        "question": "What is the correct recipe for a large chai Chiller?",
+        "answer": "choice3",
+        "answerChoices": {
+            "choice1": "4 oz chai concentrate, 12 oz whole milk",
+            "choice2": "4 oz chai concentrate, 12 oz ice cream mix",
+            "choice3": "12 oz chai concentrate, 4 oz ice cream mix",
+            "choice4": "12 oz chai concentrate, 4 oz whole milk"
+        }
+    }
+]

@@ -1,0 +1,39 @@
+[
+    {
+        "quizName": "Lemonade Chiller Freezer Recipes",
+        "quizParam": "lemonadeChillerFreezerRecipes",
+        "questionType": "multipleChoice",
+        "question": "Select the correct recipe for a medium blue raspberry lemonade Chiller:",
+        "answer": "choice1",
+        "answerChoices": {
+            "choice1": "1 oz blue raspberry, fill to the 6 with lemon concentrate, then fill to the 12 with lemonade",
+            "choice2": "3 oz blue raspberry, fill to the 12 oz line with lemonade",
+            "choice3": "1 oz blue raspberry, fill to the 6 oz line with lemonade, then to the 12 with lemon concentrate",
+            "choice4": "1 oz blue raspberry, fill to the 9 with lemon concentrate, then fill to the 12 with lemonade"
+        }
+    },
+    {
+        "quizName": "Lemonade Chiller Freezer Recipes",
+        "quizParam": "lemonadeChillerFreezerRecipes",
+        "questionType": "multipleChoice",
+        "question": "Select the correct recipe for a large lemonade Chiller:",
+        "answer": "choice3",
+        "answerChoices": {
+            "choice1": "16 oz of lemonade",
+            "choice2": "12 oz lemonade concentrate, 4 oz of lemonade",
+            "choice3": "8 oz lemonade concentrate, 8 oz of lemonade",
+            "choice4": "6 oz lemonade concentrate, 6 oz of lemonade"
+        }
+    },
+    {
+        "quizName": "Lemonade Chiller Freezer Recipes",
+        "quizParam": "lemonadeChillerFreezerRecipes",
+        "questionType": "trueFalse",
+        "question": "This is the correct recipe for a large cherry lemon freeze: 2 scoops of cherry, fill to the 8 with lemon concentrate, fill tro the 16 with ice cream mix, full cup of ice.",
+        "answer": "choice1",
+        "answerChoices": {
+            "choice1": "true",
+            "chocie2": "false"
+        }
+    }
+]

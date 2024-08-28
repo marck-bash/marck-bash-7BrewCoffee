@@ -1,0 +1,91 @@
+[
+    {
+        "quizName": "Seven Fizz Principles and Recipes",
+        "quizParam": "sevenFizzPrinciplesAndRecipes",
+        "questionType": "multipleChoice",
+        "question": "How many scoops of flavor go in a small 7 fizz?",
+        "answer": "choice2",
+        "answerChoices": {
+            "choice1": "1",
+            "choice2": "2",
+            "choice3": "3",
+            "choice4": "4"
+        }
+    },
+    {
+        "quizName": "Seven Fizz Principles and Recipes",
+        "quizParam": "sevenFizzPrinciplesAndRecipes",
+        "questionType": "multipleChoice",
+        "question": "How many scoops of flavor go in a medium 7 fizz?",
+        "answer": "choice3",
+        "answerChoices": {
+            "choice1": "1",
+            "choice2": "2",
+            "choice3": "3",
+            "choice4": "4"
+        }
+    },
+    {
+        "quizName": "Seven Fizz Principles and Recipes",
+        "quizParam": "sevenFizzPrinciplesAndRecipes",
+        "questionType": "multipleChoice",
+        "question": "How many scoops of flavor go in a large 7 fizz?",
+        "answer": "choice2",
+        "answerChoices": {
+            "choice1": "1",
+            "choice2": "2",
+            "choice3": "3",
+            "choice4": "4"
+        }
+    },
+    {
+        "quizName": "Seven Fizz Principles and Recipes",
+        "quizParam": "sevenFizzPrinciplesAndRecipes",
+        "questionType": "multipleChoice",
+        "question": "Which question should you ask a customer who orders a 7 Fizz?",
+        "answer": "choice2",
+        "answerChoices": {
+            "choice1": "Would you like to try a milk alternative instead of dairy?",
+            "choice2": "Would you like cream in your 7 Fizz?",
+            "choice3": "Would you like whipped cream on your 7 Fizz?",
+            "choice4": "Would you like the leftover sparkling water in the can?"
+        }
+    },
+    {
+        "quizName": "Seven Fizz Principles and Recipes",
+        "quizParam": "sevenFizzPrinciplesAndRecipes",
+        "questionType": "multipleChoice",
+        "question": "What is the default cream for a 7 Fizz?",
+        "answer": "choice3",
+        "answerChoices": {
+            "choice1": "Skim Milk",
+            "chocie2": "Whole Milk",
+            "choice3": "Smooth Mix",
+            "choice4": "Ice Cream Mix"
+        }
+    },
+    {
+        "quizName": "Seven Fizz Principles and Recipes",
+        "quizParam": "sevenFizzPrinciplesAndRecipes",
+        "questionType": "trueFalse",
+        "question": "Seven Fizz's are made with flavor first, then 7 Fizz, pour over ice, tom-tom, and then add cream if requested.",
+        "answer": "choice2",
+        "answerChoices": {
+            "choice1": "true",
+            "chocie2": "false"
+        }
+    },
+    {
+        "quizName": "Seven Fizz Principles and Recipes",
+        "quizParam": "sevenFizzPrinciplesAndRecipes",
+        "questionType": "multipleChoice",
+        "question": "The default cream for 7 Fizz's are:",
+        "answer": "choice3",
+        "answerChoices": {
+            "choice1": "1-1-1-1",
+            "choice2": "2-2-2-2",
+            "choice3": "1-1-2-2",
+            "choice4": "1-2-3-4"
+        }
+    }
+]

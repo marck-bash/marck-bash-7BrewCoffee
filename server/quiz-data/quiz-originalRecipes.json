@@ -1,0 +1,67 @@
+[
+    {
+        "quizName": "Original Recipes",
+        "quizParam": "originalRecipes",
+        "questionType": "multipleChoice",
+        "question": "What is the correct recipe for a small, light ice, Make it a Triple 7 Smooth 7?",
+        "answer": "choice2",
+        "answerChoices": {
+            "choice1": "1 scoop Smooth 7 flavor, 4 espresso shots, fill to the 8oz line with Smooth Mix",
+            "choice2": "1 scoop Smooth 7 flavor, 6 espresso shots, fill to the 12oz line with Smooth Mix",
+            "choice3": "2 scoop Smooth 7 flavor, 7 espresso shots, fill to the 8oz line with Smooth Mix",
+            "choice4": "2 scoop Smooth 7 flavor, 6 espresso shots, fill to the 12oz line with Smooth Mix"
+        }
+    },
+    {
+        "quizName": "Original Recipes",
+        "quizParam": "originalRecipes",
+        "questionType": "multipleChoice",
+        "question": "What is the correct recipe for a medium hot/iced almond milk Brunette?",
+        "answer": "choice3",
+        "answerChoices": {
+            "choice1": "2 scoops Brunette flavor, 2 espresso shots, almond milk",
+            "choice2": "1/2 scoop Brunette flavor, 1/2 scoop chocolate, 4 espresso shots, almond milk",
+            "choice3": "1 scoop Brunette flavor, 1 scoop chocolate, 2 espresso shots, almond milk",
+            "choice4": "1 scoop Brunette flavor, 1/4 scoop chocolate, 2 espresso shots, almond milk"
+        }
+    },
+    {
+        "quizName": "Original Recipes",
+        "quizParam": "originalRecipes",
+        "questionType": "multipleChoice",
+        "question": "If no premix flavor bottles are available, what is the correct recipe for a small iced sugar-free German Chocolate?",
+        "answer": "choice2",
+        "answerChoices": {
+            "choice1": "1/2 scoop SF coconut, 1/2 scoop SF caramel, 2 espresso shots, Mocha Mix",
+            "choice2": "1/2 scoop SF chocolate, 1/4 scoop SF coconut, 1/4 scoop SF caramel, 2 espresso shots, Smooth Mix",
+            "choice3": "1/2 scoop SF coconut, 1/2 scoop SF caramel, 2 espresso shots, Smooth Mix",
+            "choice4": "1/3 scoop SF chocolate, 1/3 scoop SF coconut, 1/3 scoop SF caramel, 2 espresso shots, Smooth Mix"
+        }
+    },
+    {
+        "quizName": "Original Recipes",
+        "quizParam": "originalRecipes",
+        "questionType": "multipleChoice",
+        "question": "What is the correct recipe for a large hot oat milk Smooth 7?",
+        "answer": "choice4",
+        "answerChoices": {
+            "choice1": "1 scoop Smooth 7 flavor, 4 espresso shots, Smooth Mix",
+            "choice2": "2 scoop Smooth 7 flavor, 6 espresso shots, Smooth Mix",
+            "choice3": "2 scoop Smooth 7 flavor, 6 espresso shots, oat milk",
+            "choice4": "2 scoop Smooth 7 flavor, 4 espresso shots, oat milk"
+        }
+    },
+    {
+        "quizName": "Original Recipes",
+        "quizParam": "originalRecipes",
+        "questionType": "multipleChoice",
+        "question": "What is the correct recipe for a medium hot/iced skim milk White Chocolate Mocha?",
+        "answer": "choice2",
+        "answerChoices": {
+            "choice1": "1/2 scoop white chocolate, 1/2 scoop dark chocolate, 2 espresso shots, skim milk",
+            "choice2": "1 scoop white chocolate, 1 scoop dark chocolate, 2 espresso shots, skim milk",
+            "choice3": "2 scoops sugar-free white chocolate, 2 espresso shots, skim milk",
+            "choice4": "2 scoops white chocolate, 2 espresso shots, skim milk"
+        }
+    }
+]

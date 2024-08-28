@@ -1,0 +1,28 @@
+[
+    {
+        "quizName": "Americano Cream",
+        "quizParam": "americanoCream",
+        "questionType": "multipleChoice",
+        "question": "How many scoops of ice cream go in a medium House Blend, if requested?",
+        "answer": "choice2",
+        "answerChoices": {
+            "choice1": "1",
+            "choice2": "2",
+            "choice3": "3",
+            "choice4": "4"
+        }
+    },
+    {
+        "quizName": "Americano Cream",
+        "quizParam": "americanoCream",
+        "questionType": "multipleChoice",
+        "question": "What are the normal scoops of cream for our House Blend, if requested?",
+        "answer": "choice1",
+        "answerChoices": {
+            "choice1": "1-2-2",
+            "choice2": "1-1-2",
+            "choice3": "1-2-3",
+            "choice4": "2-2-2"
+        }
+    }
+]

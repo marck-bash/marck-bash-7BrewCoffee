@@ -1,0 +1,63 @@
+[
+    {
+        "quizName": "Cold Brew / Cold Foam",
+        "quizParam": "coldBrewColdFoam",
+        "questionType": "multipleChoice",
+        "question": "What are the correct flavor scoops for Cold Brew?",
+        "answer": "choice3",
+        "answerChoices": {
+            "choice1": "1-1-2",
+            "choice2": "1-2-3",
+            "choice3": "1-1-1",
+            "choice4": "2-3-4"
+        }
+    },
+    {
+        "quizName": "Cold Brew / Cold Foam",
+        "quizParam": "coldBrewColdFoam",
+        "questionType": "multipleChoice",
+        "question": "What are the correct cream scoops that goes into Cold Brew, if requested?",
+        "answer": "choice2",
+        "answerChoices": {
+            "choice1": "1-1-2",
+            "choice2": "1-2-2",
+            "choice3": "2-2-2",
+            "choice4": "1-2-3"
+        }
+    },
+    {
+        "quizName": "Cold Brew / Cold Foam",
+        "quizParam": "coldBrewColdFoam",
+        "questionType": "multipleChoice",
+        "question": "What are the correct order to build a COld Brew if cream and flavor are requested?",
+        "answer": "choice1",
+        "answerChoices": {
+            "choice1": "Flavor, cold brew, tom-tom, cream on top of the ice",
+            "choice2": "Flavor, cream, cold brew, tom-tom",
+            "choice3": "Cream, flavor, cold brew, tom-tom",
+            "choice4": "Cold brew, flavor, tom-tom, cream on top of the ice"
+        }
+    },
+    {
+        "quizName": "Cold Brew / Cold Foam",
+        "quizParam": "coldBrewColdFoam",
+        "questionType": "multipleChoice",
+        "question": "What is the correct way to add cold foam to a drink?",
+        "answer": "choice2",
+        "answerChoices": {
+            "choice1": "Take out some ice and add one inch of cold foam",
+            "choice2": "Make the drink with the normal amount of ice and add cold foam on top"
+        }
+    },
+    {
+        "quizName": "Cold Brew / Cold Foam",
+        "quizParam": "coldBrewColdFoam",
+        "questionType": "trueFalse",
+        "question": "Cold foam is a $.75 upcharge.",
+        "answer": "choice1",
+        "answerChoices": {
+            "choice1": "true",
+            "chocie2": "false"
+        }
+    }
+]

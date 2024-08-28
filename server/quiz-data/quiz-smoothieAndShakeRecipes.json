@@ -1,0 +1,41 @@
+[
+    {
+        "quizName": "Smoothie and Shake Recipes",
+        "quizParam": "smoothieAndShakeRecipes",
+        "questionType": "multipleChoice",
+        "question": "What is the correct recipe for a medium mango smoothie?",
+        "answer": "choice4",
+        "answerChoices": {
+            "choice1": "3 oz mango smoothie mix, 9 oz ice cream mix",
+            "choice2": "4 oz mango smoothie mix, 8 oz ice cream mix",
+            "choice3": "6 oz mango smoothie mix, 6 oz ice cream mix",
+            "choice4": "9 oz mango smoothie mix, 3 oz ice cream mix"
+        }
+    },
+    {
+        "quizName": "Smoothie and Shake Recipes",
+        "quizParam": "smoothieAndShakeRecipes",
+        "questionType": "multipleChoice",
+        "question": "What is the correct recipe for a medium vanilla shake?",
+        "answer": "choice1",
+        "answerChoices": {
+            "choice1": "3 oz vanilla, 9 oz ice cream mix",
+            "choice2": "4 oz vanilla, 8 oz ice cream mix",
+            "choice3": "6 oz vanilla, 6 oz ice cream mix",
+            "choice4": "9 oz vanilla, 3 oz ice cream mix"
+        }
+    },
+    {
+        "quizName": "Smoothie and Shake Recipes",
+        "quizParam": "smoothieAndShakeRecipes",
+        "questionType": "multipleChoice",
+        "question": "What is the correct recipe for a small chocolate shake?",
+        "answer": "choice2",
+        "answerChoices": {
+            "choice1": "1/2 oz chocolate, 1/2 oz caramel, fill to the 8 oz with ice cream mix",
+            "choice2": "1 oz chocolate, 1 oz caramel, fill to the 8 oz with ice cream mix",
+            "choice3": "1 oz chocolate, 3 oz caramel, fill to the 8 oz with ice cream mix",
+            "choice4": "2 oz chocolate, 2 oz caramel, fill to the 6 oz with ice cream mix"
+        }
+    }
+]

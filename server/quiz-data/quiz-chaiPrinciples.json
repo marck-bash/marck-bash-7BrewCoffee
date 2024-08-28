@@ -1,0 +1,57 @@
+[
+    {
+        "quizName": "Chai Principles",
+        "quizParam": "chaiPrinciples",
+        "questionType": "trueFalse",
+        "question": "Chai Chillers follow the same mix line rules as smoothies.",
+        "answer": "choice1",
+        "answerChoices": {
+            "choice1": "true",
+            "chocie2": "false"
+        }
+    },
+    {
+        "quizName": "Chai Principles",
+        "quizParam": "chaiPrinciples",
+        "questionType": "trueFalse",
+        "question": "Hot and iced chai lattes are Classic drinks at 7 Brew, so they follow the same scoop rules as our hot and ices classic coffee drinks.",
+        "answer": "choice1",
+        "answerChoices": {
+            "choice1": "true",
+            "chocie2": "false"
+        }
+    },
+    {
+        "quizName": "Chai Principles",
+        "quizParam": "chaiPrinciples",
+        "questionType": "trueFalse",
+        "question": "Our drink recipes for chais always involce chai concentrate AND milk or mix of some kind.",
+        "answer": "choice1",
+        "answerChoices": {
+            "choice1": "true",
+            "chocie2": "false"
+        }
+    },
+    {
+        "quizName": "Chai Principles",
+        "quizParam": "chaiPrinciples",
+        "questionType": "trueFalse",
+        "question": "Hot and iced chai lattes use whole milk by default.",
+        "answer": "choice1",
+        "answerChoices": {
+            "choice1": "true",
+            "chocie2": "false"
+        }
+    },
+    {
+        "quizName": "Chai Principles",
+        "quizParam": "chaiPrinciples",
+        "questionType": "trueFalse",
+        "question": "All hot, iced, and chai chillers get one scoop of flavor if requested.",
+        "answer": "choice2",
+        "answerChoices": {
+            "choice1": "true",
+            "chocie2": "false"
+        }
+    }
+]

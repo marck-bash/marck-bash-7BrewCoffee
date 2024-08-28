@@ -1,0 +1,134 @@
+[
+    {
+        "quizName": "Updated Recipes Sept 2023",
+        "quizParam": "updatedRecipesSept2023",
+        "questionType": "multipleChoice",
+        "question": "Smoothie scoops are ___.",
+        "answer": "choice2",
+        "answerChoices": {
+            "choice1": "1-1-1",
+            "choice2": "1-1-2",
+            "choice3": "1-2-3",
+            "choice4": "2-3-4"
+        }
+    },
+    {
+        "quizName": "Updated Recipes Sept 2023",
+        "quizParam": "updatedRecipesSept2023",
+        "questionType": "multipleChoice",
+        "question": "When you make ANY type of Special 7 Mocha Chiller (inlcluding Originals), it will require ___ the total scoops of flavor to be dark chocolate.",
+        "answer": "choice4",
+        "answerChoices": {
+            "choice1": "None",
+            "choice2": "1/4",
+            "choice3": "1/3",
+            "choice4": "1/2"
+        }
+    },
+    {
+        "quizName": "Updated Recipes Sept 2023",
+        "quizParam": "updatedRecipesSept2023",
+        "questionType": "multipleChoice",
+        "question": "How do you build a half-sweet Mocha Chiller (no flavor/plain)?",
+        "answer": "choice2",
+        "answerChoices": {
+            "choice1": "Regular chiller + 1/4 total flavor scoop(s) of dark chocolate",
+            "choice2": "Regular chiller + 1/2 total flavor scoop(s) of dark chocolate",
+            "choice3": "1/2 mocha chiller + 1/2 regular chiller mixed in a cup",
+            "choice4": "Mocha Chiller + 1/2 total flavor scoop(s) of cane sugar"
+        }
+    },
+    {
+        "quizName": "Updated Recipes Sept 2023",
+        "quizParam": "updatedRecipesSept2023",
+        "questionType": "multipleChoice",
+        "question": "What is the correct way to drizzle if it is required?.",
+        "answer": "choice3",
+        "answerChoices": {
+            "choice1": "Drizzle as you please and make it pretty!",
+            "choice2": "One inch at the bottom of the cup.",
+            "choice3": "Drizzle one ring around the top of the cup."
+        }
+    },
+    {
+        "quizName": "Updated Recipes Sept 2023",
+        "quizParam": "updatedRecipesSept2023",
+        "questionType": "trueFalse",
+        "question": "If drizzle and whipped cream/cold foam is required, you do not have to put drizzle on top of the whipped cream or cold foam.",
+        "answer": "choice2",
+        "answerChoices": {
+            "choice1": "true",
+            "chocie2": "false"
+        }
+    },
+    {
+        "quizName": "Updated Recipes Sept 2023",
+        "quizParam": "updatedRecipesSept2023",
+        "questionType": "trueFalse",
+        "question": "If two smoothie flavors are requested in a drink, you must handblend both smoothie flavors together in a blender (example: strawberry mango smoothie).",
+        "answer": "choice1",
+        "answerChoices": {
+            "choice1": "true",
+            "chocie2": "false"
+        }
+    },
+    {
+        "quizName": "Updated Recipes Sept 2023",
+        "quizParam": "updatedRecipesSept2023",
+        "questionType": "trueFalse",
+        "question": "This is the correct way to make a medium plain decaf mocha chiller: 3 dark chocolate, 2 shots decaf espresso, then fill to the 9 with mocha mix.",
+        "answer": "choice1",
+        "answerChoices": {
+            "choice1": "true",
+            "chocie2": "false"
+        }
+    },
+    {
+        "quizName": "Updated Recipes Sept 2023",
+        "quizParam": "updatedRecipesSept2023",
+        "questionType": "multipleChoice",
+        "question": "If a kid's iced blondie is ordered, how many shots of espresso are used?",
+        "answer": "choice1",
+        "answerChoices": {
+            "choice1": "1",
+            "choice2": "2",
+            "choice3": "1/2",
+            "choice4": "4"
+        }
+    },
+    {
+        "quizName": "Updated Recipes Sept 2023",
+        "quizParam": "updatedRecipesSept2023",
+        "questionType": "trueFalse",
+        "question": "If an extra shot chiller is ordered, put the espresso straight into the plastic cup and then fill with chiller.",
+        "answer": "choice2",
+        "answerChoices": {
+            "choice1": "true",
+            "chocie2": "false"
+        }
+    },
+    {
+        "quizName": "Updated Recipes Sept 2023",
+        "quizParam": "updatedRecipesSept2023",
+        "questionType": "multipleChoice",
+        "question": "If a secret menu drink is requested with an additional flavor, the additional flavor will take up ___ of the total scoops of flavor unless otherwise requested (example: a strawberry Ocean Breeze).",
+        "answer": "choice2",
+        "answerChoices": {
+            "choice1": "Even parts",
+            "choice2": "1/2",
+            "choice3": "1/3",
+            "choice4": "1/4"
+        }
+    },
+    {
+        "quizName": "Updated Recipes Sept 2023",
+        "quizParam": "updatedRecipesSept2023",
+        "questionType": "trueFalse",
+        "question": "We do flat, even scoops for flavor.",
+        "answer": "choice1",
+        "answerChoices": {
+            "choice1": "true",
+            "chocie2": "false"
+        }
+    }
+]

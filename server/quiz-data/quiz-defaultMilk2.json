@@ -1,0 +1,29 @@
+[
+    {
+        "quizName": "Default Milk 2",
+        "quizParam": "defaultMilk2",
+        "questionType": "multipleChoice",
+        "question": "Which milk goes in an iced sugar-free mocha?",
+        "answer": "choice1",
+        "answerChoices": {
+            "choice1": "Smooth Mix",
+            "choice2": "Mocha Mix",
+            "choice3": "Whole Milk",
+            "choice4": "Skim Milk"
+        }
+    },
+    {
+        "quizName": "Default Milk 2",
+        "quizParam": "defaultMilk2",
+        "questionType": "multipleChoice",
+        "question": "Which milk goes in a hot skinny latte?",
+        "answer": "choice4",
+        "answerChoices": {
+            "choice1": "Smooth Mix",
+            "choice2": "Whole Milk",
+            "choice3": "Oat Milk",
+            "choice4": "Skim Milk",
+            "choice5": "Mocha Mix"
+        }
+    }
+]

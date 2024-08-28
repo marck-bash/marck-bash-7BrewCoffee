@@ -1,0 +1,1789 @@
+[
+    {
+        "quizName": "Americano Cream",
+        "quizParam": "americanoCream",
+        "questionType": "multipleChoice",
+        "question": "How many scoops of ice cream go in a medium House Blend, if requested?",
+        "answer": "choice2",
+        "answerChoices": {
+            "choice1": "1",
+            "choice2": "2",
+            "choice3": "3",
+            "choice4": "4"
+        }
+    },
+    {
+        "quizName": "Americano Cream",
+        "quizParam": "americanoCream",
+        "questionType": "multipleChoice",
+        "question": "What are the normal scoops of cream for our House Blend, if requested?",
+        "answer": "choice1",
+        "answerChoices": {
+            "choice1": "1-2-2",
+            "choice2": "1-1-2",
+            "choice3": "1-2-3",
+            "choice4": "2-2-2"
+        }
+    },
+    {
+        "quizName": "Chai Principles",
+        "quizParam": "chaiPrinciples",
+        "questionType": "trueFalse",
+        "question": "Chai Chillers follow the same mix line rules as smoothies.",
+        "answer": "choice1",
+        "answerChoices": {
+            "choice1": "true",
+            "choice2": "false"
+        }
+    },
+    {
+        "quizName": "Chai Principles",
+        "quizParam": "chaiPrinciples",
+        "questionType": "trueFalse",
+        "question": "Hot and iced chai lattes are Classic drinks at 7 Brew, so they follow the same scoop rules as our hot and ices classic coffee drinks.",
+        "answer": "choice1",
+        "answerChoices": {
+            "choice1": "true",
+            "choice2": "false"
+        }
+    },
+    {
+        "quizName": "Chai Principles",
+        "quizParam": "chaiPrinciples",
+        "questionType": "trueFalse",
+        "question": "Our drink recipes for chais always involce chai concentrate AND milk or mix of some kind.",
+        "answer": "choice1",
+        "answerChoices": {
+            "choice1": "true",
+            "choice2": "false"
+        }
+    },
+    {
+        "quizName": "Chai Principles",
+        "quizParam": "chaiPrinciples",
+        "questionType": "trueFalse",
+        "question": "Hot and iced chai lattes use whole milk by default.",
+        "answer": "choice1",
+        "answerChoices": {
+            "choice1": "true",
+            "choice2": "false"
+        }
+    },
+    {
+        "quizName": "Chai Principles",
+        "quizParam": "chaiPrinciples",
+        "questionType": "trueFalse",
+        "question": "All hot, iced, and chai chillers get one scoop of flavor if requested.",
+        "answer": "choice2",
+        "answerChoices": {
+            "choice1": "true",
+            "choice2": "false"
+        }
+    },
+    {
+        "quizName": "Classic Espresso Shots",
+        "quizParam": "classicEspressoShots",
+        "questionType": "trueFalse",
+        "question": "All Classic drinks use two espresso shots for a small, two for a medium, and four for a large.",
+        "answer": "choice2",
+        "answerChoices": {
+            "choice1": "true",
+            "choice2": "false"
+        }
+    },
+    {
+        "quizName": "Classic Espresso Shots",
+        "quizParam": "classicEspressoShots",
+        "questionType": "selectAll",
+        "question": "Select the Classic drinks that use two espresso shots for a small, two for a medium, and four for a large.",
+        "answer": ["choice2", "choice3", "choice4","choice6"],
+        "answerChoices": {
+            "choice1": "House Blend",
+            "choice2": "Latte",
+            "choice3": "Breve",
+            "choice4": "Cappuccino",
+            "choice5": "Cold Brew",
+            "choice6": "Caramel Macchiato",
+            "choice7": "All of the above"
+        }
+    },
+    {
+        "quizName": "Classic Flavor Scoops",
+        "quizParam": "classicFlavorScoops",
+        "questionType": "multipleChoice",
+        "question": "How many scoops of flavor go in medium Classic drinks?",
+        "answer": "choice1",
+        "answerChoices": {
+            "choice1": "1",
+            "choice2": "2",
+            "choice3": "3",
+            "choice4": "4"
+        }
+    },
+    {
+        "quizName": "Classic Flavor Scoops",
+        "quizParam": "classicFlavorScoops",
+        "questionType": "multipleChoice",
+        "question": "How many scoops of flavor go in large Classic drinks?",
+        "answer": "choice1",
+        "answerChoices": {
+            "choice1": "1",
+            "choice2": "2",
+            "choice3": "3",
+            "choice4": "4"
+        }
+    },
+    {
+        "quizName": "Classic Recipes",
+        "quizParam": "classicRecipes",
+        "questionType": "multipleChoice",
+        "question": "What is the correct recipe for a large cappuccino?",
+        "answer": "choice3",
+        "answerChoices": {
+            "choice1": "4 espresso shots, half steamed Smooth Mix, half Smooth Mix froth",
+            "choice2": "4 espresso shots, Smooth Mix froth",
+            "choice3": "4 espresso shots, half steamed whole milk, half whole milk froth",
+            "choice4": "4 espresso shots, whole milk froth"
+        }
+    },
+    {
+        "quizName": "Classic Recipes",
+        "quizParam": "classicRecipes",
+        "questionType": "multipleChoice",
+        "question": "What is the correct recipe for a medium hot/iced almond milk hazelnut mocha?",
+        "answer": "choice2",
+        "answerChoices": {
+            "choice1": "1/2 scoop hazelnut, 1/2 scoop chocolate, 2 espresso shots, almond milk",
+            "choice2": "1 scoop hazelnut, 1 scoop chocolate, 2 espresso shots, almond milk",
+            "choice3": "1 scoop hazelnut, 2 espresso shots, almond milk",
+            "choice4": "2 scoop hazelnut, 2 espresso shots, almond milk"
+        }
+    },
+    {
+        "quizName": "Classic Recipes",
+        "quizParam": "classicRecipes",
+        "questionType": "multipleChoice",
+        "question": "What is the correct recipe for a small hot/iced sugar-free mocha?",
+        "answer": "choice1",
+        "answerChoices": {
+            "choice1": "1 scoop sugar-free chocolate, 2 espresso shots, Smooth Mix",
+            "choice2": "1 scoop sugar-free chocolate, 2 espresso shots, Mocha Mix",
+            "choice3": "2 scoop sugar-free chocolate, 2 espresso shots, Smooth Mix",
+            "choice4": "2 scoop sugar-free chocolate, 2 espresso shots, Mocha Mix"
+        }
+    },
+    {
+        "quizName": "Classic Recipes",
+        "quizParam": "classicRecipes",
+        "questionType": "multipleChoice",
+        "question": "What is the correct recipe for a medium hot/iced caramel-vanilla mocha?",
+        "answer": "choice2",
+        "answerChoices": {
+            "choice1": "1 scoop caramel, 1 scoop vanilla, double shot espresso, chocolate milk",
+            "choice2": "1/2 scoop caramel, 1/2 scoop vanilla, double shot espresso, Mocha Mix",
+            "choice3": "1/3 scoop caramel, 1/3 scoop vanilla, 1/3 scoop dark chocolate, double shot espresso, whole milk",
+            "choice4": "1/4 scoop caramel, 1/4 scoop vanilla, 1/2 scoop dark chocolate, double shot espresso, Mocha Mix"
+        }
+    },
+    {
+        "quizName": "Classic Recipes",
+        "quizParam": "classicRecipes",
+        "questionType": "multipleChoice",
+        "question": "What is the correct recipe for a medium hot/iced white chocolate-caramel breve?",
+        "answer": "choice3",
+        "answerChoices": {
+            "choice1": "1 scoop white chocolate, 1 scoop caramel, quad shot espressp, whole milk",
+            "choice2": "1/2 scoop white chocolate, 1/2 scoop caramel, double shot espresso, whole milk",
+            "choice3": "1/2 scoop white, 1/2 scoop caramel, double shot espresso, Smooth Mix",
+            "choice4": "1 scoop white chocolate, 1 scoop caramel, double shot espresso, Smooth Mix"
+        }
+    },
+    {
+        "quizName": "Coffee Chiller and Special 7 Principles",
+        "quizParam": "coffeeChillerAndSpecial7Principles",
+        "questionType": "selectAll",
+        "question": "What are the reasons we would need to make a hand-blended Special 7 Chiller instead of using Chiller Machine?",
+        "answer": ["choice2", "choice3", "choice4", "choice6"],
+        "answerChoices": {
+            "choice1": "The customer wants an extra shot",
+            "choice2": "The customer requests sugar-free",
+            "choice3": "The customer asks for only 1 shot of espresso",
+            "choice4": "The customer requests decaf",
+            "choice5": "The customer requests half-sweet",
+            "choice6": "The customer requests a milk alternative"
+        }
+    },
+    {
+        "quizName": "Coffee Chiller and Special 7 Principles",
+        "quizParam": "coffeeChillerAndSpecial7Principles",
+        "questionType": "selectAll",
+        "question": "Select the ingredients of the regular Chiller barrel:",
+        "answer": ["choice1", "choice3", "choice4"],
+        "answerChoices": {
+            "choice1": "Espresso",
+            "choice2": "Smooth Mix",
+            "choice3": "Sugar",
+            "choice4": "Whole Milk",
+            "choice5": "Coffee Grinds",
+            "choice6": "Mocha Mix"
+        }
+    },
+    {
+        "quizName": "Coffee Chiller and Special 7 Principles",
+        "quizParam": "coffeeChillerAndSpecial7Principles",
+        "questionType": "selectAll",
+        "question": "Select the ingredients of the mocha Chiller barrel:",
+        "answer": ["choice1", "choice5"],
+        "answerChoices": {
+            "choice1": "Espresso",
+            "choice2": "Sugar",
+            "choice3": "Whole Milk",
+            "choice4": "Coffee Grinds",
+            "choice5": "Mocha Mix"
+        }
+    },
+    {
+        "quizName": "Coffee Chiller and Special 7 Principles",
+        "quizParam": "coffeeChillerAndSpecial7Principles",
+        "questionType": "multipleChoice",
+        "question": "How many total ounces of liquid do Special 7 Chillers get for smalls, mediums, and larges?",
+        "answer": "choice2",
+        "answerChoices": {
+            "choice1": "5, 10, 15",
+            "choice2": "6, 9, 12",
+            "choice3": "6, 12, 16",
+            "choice4": "8, 12, 16"
+        }
+    },
+    {
+        "quizName": "Coffee Chiller and Special 7 Principles",
+        "quizParam": "coffeeChillerAndSpecial7Principles",
+        "questionType": "multipleChoice",
+        "question": "What comes after mixing the ingredients together in the mix cup for a Special 7?",
+        "answer": "choice2",
+        "answerChoices": {
+            "choice1": "Tom-tom and blend",
+            "choice2": "Tom-tom, top with ice, and blend",
+            "choice3": "Tom-tom, top with milk or dairy alternative, and blend",
+            "choice4": "Pour into blender, add a cup of ice on top, and blend"
+        }
+    },
+    {
+        "quizName": "Coffee Chiller and Special 7 Principles",
+        "quizParam": "coffeeChillerAndSpecial7Principles",
+        "questionType": "multipleChoice",
+        "question": "How many total ounces of flavor, espresso shots, and milk would be in a small almond milk mocha Chiller?",
+        "answer": "choice3",
+        "answerChoices": {
+            "choice1": "4",
+            "choice2": "5",
+            "choice3": "6",
+            "choice4": "7",
+            "choice5": "8",
+            "choice6": "9"
+        }
+    },
+    {
+        "quizName": "Coffee Chiller and Special 7 Principles",
+        "quizParam": "coffeeChillerAndSpecial7Principles",
+        "questionType": "trueFalse",
+        "question": "If a mocha Chiller is only requested decaf, whole milk should be used as the milk.",
+        "answer": "choice2",
+        "answerChoices": {
+            "choice1": "true",
+            "choice2": "false"
+        }
+    },
+    {
+        "quizName": "Coffee Chiller and Special 7 Principles",
+        "quizParam": "coffeeChillerAndSpecial7Principles",
+        "questionType": "trueFalse",
+        "question": "If a Smooth 7 Chiller is requested sugar-free, Smooth Mix should be used as the milk.",
+        "answer": "choice2",
+        "answerChoices": {
+            "choice1": "true",
+            "choice2": "false"
+        }
+    },
+    {
+        "quizName": "Coffee Chiller and Special 7 Principles",
+        "quizParam": "coffeeChillerAndSpecial7Principles",
+        "questionType": "trueFalse",
+        "question": "If an extra shot is requested in a Smooth 7 Chiller, pour it directly into the plastic ice cup before filling the cup with Chiller Mix so thaty the shots mix well.",
+        "answer": "choice2",
+        "answerChoices": {
+            "choice1": "true",
+            "choice2": "false"
+        }
+    },
+    {
+        "quizName": "Cold Brew / Cold Foam",
+        "quizParam": "coldBrewColdFoam",
+        "questionType": "multipleChoice",
+        "question": "What are the correct flavor scoops for Cold Brew?",
+        "answer": "choice3",
+        "answerChoices": {
+            "choice1": "1-1-2",
+            "choice2": "1-2-3",
+            "choice3": "1-1-1",
+            "choice4": "2-3-4"
+        }
+    },
+    {
+        "quizName": "Cold Brew / Cold Foam",
+        "quizParam": "coldBrewColdFoam",
+        "questionType": "multipleChoice",
+        "question": "What are the correct cream scoops that goes into Cold Brew, if requested?",
+        "answer": "choice2",
+        "answerChoices": {
+            "choice1": "1-1-2",
+            "choice2": "1-2-2",
+            "choice3": "2-2-2",
+            "choice4": "1-2-3"
+        }
+    },
+    {
+        "quizName": "Cold Brew / Cold Foam",
+        "quizParam": "coldBrewColdFoam",
+        "questionType": "multipleChoice",
+        "question": "What are the correct order to build a Cold Brew if cream and flavor are requested?",
+        "answer": "choice1",
+        "answerChoices": {
+            "choice1": "Flavor, cold brew, tom-tom, cream on top of the ice",
+            "choice2": "Flavor, cream, cold brew, tom-tom",
+            "choice3": "Cream, flavor, cold brew, tom-tom",
+            "choice4": "Cold brew, flavor, tom-tom, cream on top of the ice"
+        }
+    },
+    {
+        "quizName": "Cold Brew / Cold Foam",
+        "quizParam": "coldBrewColdFoam",
+        "questionType": "multipleChoice",
+        "question": "What is the correct way to add cold foam to a drink?",
+        "answer": "choice2",
+        "answerChoices": {
+            "choice1": "Take out some ice and add one inch of cold foam",
+            "choice2": "Make the drink with the normal amount of ice and add cold foam on top"
+        }
+    },
+    {
+        "quizName": "Cold Brew / Cold Foam",
+        "quizParam": "coldBrewColdFoam",
+        "questionType": "trueFalse",
+        "question": "Cold foam is a $.75 upcharge.",
+        "answer": "choice1",
+        "answerChoices": {
+            "choice1": "true",
+            "choice2": "false"
+        }
+    },
+    {
+        "quizName": "Default Milk 1",
+        "quizParam": "defaultMilk1",
+        "questionType": "multipleChoice",
+        "question": "What milk goes in a breve?",
+        "answer": "choice2",
+        "answerChoices": {
+            "choice1": "2% milk",
+            "choice2": "Smooth Mix",
+            "choice3": "Mocha Mix",
+            "choice4": "Whole Milk",
+            "choice5": "Skim Milk"
+        }
+    },
+    {
+        "quizName": "Default Milk 1",
+        "quizParam": "defaultMilk1",
+        "questionType": "multipleChoice",
+        "question": "Which milk goes in a cappuccino?",
+        "answer": "choice4",
+        "answerChoices": {
+            "choice1": "2% milk",
+            "choice2": "Smooth Mix",
+            "choice3": "Mocha Mix",
+            "choice4": "Whole Milk",
+            "choice5": "Skim Milk"
+        }
+    },
+    {
+        "quizName": "Default Milk 2",
+        "quizParam": "defaultMilk2",
+        "questionType": "multipleChoice",
+        "question": "Which milk goes in an iced sugar-free mocha?",
+        "answer": "choice1",
+        "answerChoices": {
+            "choice1": "Smooth Mix",
+            "choice2": "Mocha Mix",
+            "choice3": "Whole Milk",
+            "choice4": "Skim Milk"
+        }
+    },
+    {
+        "quizName": "Default Milk 2",
+        "quizParam": "defaultMilk2",
+        "questionType": "multipleChoice",
+        "question": "Which milk goes in a hot skinny latte?",
+        "answer": "choice4",
+        "answerChoices": {
+            "choice1": "Smooth Mix",
+            "choice2": "Whole Milk",
+            "choice3": "Oat Milk",
+            "choice4": "Skim Milk",
+            "choice5": "Mocha Mix"
+        }
+    },
+    {
+        "quizName": "Drinkable Temp",
+        "quizParam": "drinkableTemp",
+        "questionType": "multipleChoice",
+        "question": "What is the temperature range for a hot drink ordered 'drinkable'?",
+        "answer": "choice3",
+        "answerChoices": {
+            "choice1": "120°-130°",
+            "choice2": "130°-140°",
+            "choice3": "140°-150°",
+            "choice4": "150°-160°"
+        }
+    },
+    {
+        "quizName": "Drinkable Temp",
+        "quizParam": "drinkableTemp",
+        "questionType": "selectAll",
+        "question": "If a hot drink is ordered 'drinkable', select all of the following temperatures that would be too hot to serve:",
+        "answer": ["choice4", "choice5"],
+        "answerChoices": {
+            "choice1": "130°",
+            "choice2": "140°",
+            "choice3": "150°",
+            "choice4": "160°",
+            "choice5": "170°"
+        }
+    },
+    {
+        "quizName": "Extra Hot Temp",
+        "quizParam": "extraHotTemp",
+        "questionType": "multipleChoice",
+        "question": "What is the temperature range of a hot drink ordered 'extra hot'?",
+        "answer": "choice3",
+        "answerChoices": {
+            "choice1": "165°-170°",
+            "choice2": "170°-175°",
+            "choice3": "175°-180°",
+            "choice4": "180°-185°"
+        }
+    },
+    {
+        "quizName": "Extra Hot Temp",
+        "quizParam": "extraHotTemp",
+        "questionType": "selectAll",
+        "question": "Select all drink temperatures that would be too hot to serve if the drink is ordered 'extra hot':",
+        "answer": ["choice5", "choice6"],
+        "answerChoices": {
+            "choice1": "165°",
+            "choice2": "175°",
+            "choice3": "179°",
+            "choice4": "180°",
+            "choice5": "181°",
+            "choice6": "185°"
+        }
+    },
+    {
+        "quizName": "Flavor Scoop Examples",
+        "quizParam": "flavorScoopExamples",
+        "questionType": "multipleChoice",
+        "question": "How many scoops of flavor go in a medium Blondie Chiller?",
+        "answer": "choice1",
+        "answerChoices": {
+            "choice1": "1",
+            "choice2": "2",
+            "choice3": "3",
+            "choice4": "4"
+        }
+    },
+    {
+        "quizName": "Flavor Scoop Examples",
+        "quizParam": "flavorScoopExamples",
+        "questionType": "multipleChoice",
+        "question": "How many scoops of flavor go in a large Blondie Chiller?",
+        "answer": "choice2",
+        "answerChoices": {
+            "choice1": "1",
+            "choice2": "2",
+            "choice3": "3",
+            "choice4": "4"
+        }
+    },
+    {
+        "quizName": "Flavor Scoop Examples",
+        "quizParam": "flavorScoopExamples",
+        "questionType": "multipleChoice",
+        "question": "How many scoops of flavor go in a medium vanilla hot cocoa?",
+        "answer": "choice1",
+        "answerChoices": {
+            "choice1": "1",
+            "choice2": "2",
+            "choice3": "3",
+            "choice4": "4"
+        }
+    },
+    {
+        "quizName": "Flavor Scoop Examples",
+        "quizParam": "flavorScoopExamples",
+        "questionType": "multipleChoice",
+        "question": "How many scoops of flavor go in a large sugar-free strawberry Energy Chiller?",
+        "answer": "choice4",
+        "answerChoices": {
+            "choice1": "1",
+            "choice2": "2",
+            "choice3": "3",
+            "choice4": "4"
+        }
+    },
+    {
+        "quizName": "Flavor Scoop Examples",
+        "quizParam": "flavorScoopExamples",
+        "questionType": "multipleChoice",
+        "question": "How many scoops of flavor go in a large brown sugar cinnamon Chai Chiller?",
+        "answer": "choice2",
+        "answerChoices": {
+            "choice1": "1",
+            "choice2": "2",
+            "choice3": "3",
+            "choice4": "4"
+        }
+    },
+    {
+        "quizName": "Flavor Scoop Examples",
+        "quizParam": "flavorScoopExamples",
+        "questionType": "multipleChoice",
+        "question": "How many scoops of flavor go in a largte orange Seven Fizz?",
+        "answer": "choice4",
+        "answerChoices": {
+            "choice1": "1",
+            "choice2": "2",
+            "choice3": "3",
+            "choice4": "4"
+        }
+    },
+    {
+        "quizName": "Flavor Scoop Examples",
+        "quizParam": "flavorScoopExamples",
+        "questionType": "multipleChoice",
+        "question": "How many scoops of flavor go in a medium iced blue raspberry lemonade?",
+        "answer": "choice1",
+        "answerChoices": {
+            "choice1": "1",
+            "choice2": "2",
+            "choice3": "3",
+            "choice4": "4"
+        }
+    },
+    {
+        "quizName": "Flavor Scoop Examples",
+        "quizParam": "flavorScoopExamples",
+        "questionType": "multipleChoice",
+        "question": "How many scoops of flavor go in a large strawberry lemonade Chiller?",
+        "answer": "choice2",
+        "answerChoices": {
+            "choice1": "1",
+            "choice2": "2",
+            "choice3": "3",
+            "choice4": "4"
+        }
+    },
+    {
+        "quizName": "Flavor Scoop Examples",
+        "quizParam": "flavorScoopExamples",
+        "questionType": "multipleChoice",
+        "question": "How many scoops of flavor go in a small sugar-free Smooth 7 Chiller?",
+        "answer": "choice2",
+        "answerChoices": {
+            "choice1": "1",
+            "choice2": "2",
+            "choice3": "3",
+            "choice4": "4"
+        }
+    },
+    {
+        "quizName": "Flavor Scoop Examples",
+        "quizParam": "flavorScoopExamples",
+        "questionType": "multipleChoice",
+        "question": "How many scoops of flavor go in a medium coconut milk German Chocolate Chiller?",
+        "answer": "choice3",
+        "answerChoices": {
+            "choice1": "1",
+            "choice2": "2",
+            "choice3": "3",
+            "choice4": "4"
+        }
+    },
+    {
+        "quizName": "Flavor / Shots / Milk Order",
+        "quizParam": "flavorShotsMilkOrder",
+        "questionType": "multipleChoice",
+        "question": "Select the correct order of ingredients for a Blondie.",
+        "answer": "choice1",
+        "answerChoices": {
+            "choice1": "Flavor, shots, milk",
+            "choice2": "Milk, shots, flavor",
+            "choice3": "Flavor, milk, shots",
+            "choice4": "Shots, flavor, milk",
+            "choice5": "Shots, milk, flavor"
+        }
+    },
+    {
+        "quizName": "Flavor / Shots / Milk Order",
+        "quizParam": "flavorShotsMilkOrder",
+        "questionType": "multipleChoice",
+        "question": "What is the second ingredient of any coffee drink that has flavor?",
+        "answer": "choice1",
+        "answerChoices": {
+            "choice1": "Shots",
+            "choice2": "Flavor",
+            "choice3": "Milk",
+            "choice4": "Ice, if applicable"
+        }
+    },
+    {
+        "quizName": "Grinds Adjustment",
+        "quizParam": "grindsAdjustment",
+        "questionType": "multipleChoice",
+        "question": "What should you do if your espresso shots are pulling too short?",
+        "answer": "choice4",
+        "answerChoices": {
+            "choice1": "Tamp harder so that the grinds are more compact.",
+            "choice2": "Adjust the grinder to make the coffee grinds coarser.",
+            "choice3": "If you don't have much time, pull the dosing lever three times instead of two to add in a little more goffee grinds.",
+            "choice4": "Adjust the grinder to make the coffee grinds finer."
+        }
+    },
+    {
+        "quizName": "Grinds Adjustment",
+        "quizParam": "grindsAdjustment",
+        "questionType": "multipleChoice",
+        "question": "What should you do if your espresso shots are pulling too long?",
+        "answer": "choice2",
+        "answerChoices": {
+            "choice1": "Tamp harder so that the grinds are more compact.",
+            "choice2": "Adjust the grinder to make the coffee grinds coarser.",
+            "choice3": "If you don't have much time, pull the dosing lever three times instead of two to add in a little more goffee grinds.",
+            "choice4": "Adjust the grinder to make the coffee grinds finer."
+        }
+    },
+    {
+        "quizName": "Hot Drink Temp Range",
+        "quizParam": "hotDrinkTempRange",
+        "questionType": "multipleChoice",
+        "question": "What is the correct temperature range for regular hot drinks (not including 'extra hot' or 'drinkable')?",
+        "answer": "choice1",
+        "answerChoices": {
+            "choice1": "160°-170°",
+            "choice2": "160°-165°",
+            "choice3": "150°-180°",
+            "choice4": "150°-170°"
+        }
+    },
+    {
+        "quizName": "Hot Drink Temp Range",
+        "quizParam": "hotDrinkTempRange",
+        "questionType": "trueFalse",
+        "question": "Other than a kids drink, if you burn your milk or get it too hot, you can add cold milk to bring it down to the correct temperature.",
+        "answer": "choice2",
+        "answerChoices": {
+            "choice1": "true",
+            "choice2": "false"
+        }
+    },
+    {
+        "quizName": "Iced / Chiller 7 Energy Recipes",
+        "quizParam": "icedChiller7EnergyRecipes",
+        "questionType": "multipleChoice",
+        "question": "What is the correct way to build a large iced pineapple 7 Energy?",
+        "answer": "choice1",
+        "answerChoices": {
+            "choice1": "2 scoops pineapple, fill to the 16 oz line with 7 Energy, then pour over ice",
+            "choice2": "2 scoops pineapple, fill to the 20 oz line with 7 Energy, then pour over ice",
+            "choice3": "4 scoops pineapple, fill to the 16 oz line with 7 Energy, then pour over ice",
+            "choice4": "2 scoops pineapple in the large cup, then use a full 12 oz 7 Energy can, plus an additional 2 oz Energy, then top with ice"
+        }
+    },
+    {
+        "quizName": "Iced / Chiller 7 Energy Recipes",
+        "quizParam": "icedChiller7EnergyRecipes",
+        "questionType": "multipleChoice",
+        "question": "How many scoops of flavor go in a medium peach-raspberry 7 Energy Chiiller?",
+        "answer": "choice2",
+        "answerChoices": {
+            "choice1": "1 scoop raspberry, 1 scoop peach",
+            "choice2": "1/2 scoop raspberry, 1/2 scoop peach",
+            "choice3": "1 1/2 scoop raspberry, 1 1/2 scoop peach",
+            "choice4": "2 scoop raspberry, 2 scoop peach"
+        }
+    },
+    {
+        "quizName": "Iced / Chiller 7 Energy Recipes",
+        "quizParam": "icedChiller7EnergyRecipes",
+        "questionType": "multipleChoice",
+        "question": "How many scoops of flavor go in a small watermelon 7 Energy Chiiller?",
+        "answer": "choice1",
+        "answerChoices": {
+            "choice1": "1",
+            "choice2": "2",
+            "choice3": "3",
+            "choice4": "4"
+        }
+    },
+    {
+        "quizName": "Iced / Chiller 7 Energy Recipes",
+        "quizParam": "icedChiller7EnergyRecipes",
+        "questionType": "multipleChoice",
+        "question": "What is the correct recipe for a medium iced blue raspberry 7 Energy?",
+        "answer": "choice4",
+        "answerChoices": {
+            "choice1": "1 scoop blue raspberry, fill to the 12 oz line with 7 Energy, tom-tom",
+            "choice2": "2 scoops blue raspberry, 8 oz of 7 Energy",
+            "choice3": "1 scoop blue raspberry, 12 oz can of 7 Energy",
+            "choice4": "1 scoop blue raspberry, fill to the 12 oz line with 7 Energy"
+        }
+    },
+    {
+        "quizName": "Iced / Chiller 7 Energy Recipes",
+        "quizParam": "icedChiller7EnergyRecipes",
+        "questionType": "multipleChoice",
+        "question": "What is the correct recipe for a large sugar-free coconut 7 Energy Chiller?",
+        "answer": "choice3",
+        "answerChoices": {
+            "choice1": "2 scoops sugar-free coconut added to 7 Energy Chiller",
+            "choice2": "3 scoops sugar-free coconut, fill to the 12 oz line with sugar-free 7 Energy and add ice",
+            "choice3": "4 scoops sugar-free coconut, fill to the 16 oz line with sugar-free 7 Energy and add ice",
+            "choice4": "4 scoops sugar-free coconut, fill to the 12 oz line with sugar-free 7 Energy and add ice"
+        }
+    },
+    {
+        "quizName": "Iced / Chiller 7 Energy Recipes",
+        "quizParam": "icedChiller7EnergyRecipes",
+        "questionType": "multipleChoice",
+        "question": "What is the correct recipe for a medium sugar-free strawberry 7 Energy Chiller?",
+        "answer": "choice4",
+        "answerChoices": {
+            "choice1": "1 scoop sugar-free strawberry and 7 Energy Chiller",
+            "choice2": "1 1/2 scoops sugar-free strawberry and 9 oz of sugar-free 7 Energy",
+            "choice3": "3 scoops sugar-free strawberry, fill to the 9 oz line with sugar-free 7 Energy",
+            "choice4": "3 scoops sugar-free strawberry, fill to the 12 oz line with sugar-free 7 Energy"
+        }
+    },
+    {
+        "quizName": "Kids Drinks Principles and Recipes",
+        "quizParam": "kidsDrinksPrinciplesAndRecipes",
+        "questionType": "multipleChoice",
+        "question": "How many scoops of flavor go in a kids cocoa?",
+        "answer": "choice1",
+        "answerChoices": {
+            "choice1": "1",
+            "choice2": "2",
+            "choice3": "3",
+            "choice4": "4"
+        }
+    },
+    {
+        "quizName": "Kids Drinks Principles and Recipes",
+        "quizParam": "kidsDrinksPrinciplesAndRecipes",
+        "questionType": "multipleChoice",
+        "question": "How many shots of espresso go in kids coffee drinks?",
+        "answer": "choice1",
+        "answerChoices": {
+            "choice1": "1",
+            "choice2": "2",
+            "choice3": "3",
+            "choice4": "4"
+        }
+    },
+    {
+        "quizName": "Kids Drinks Principles and Recipes",
+        "quizParam": "kidsDrinksPrinciplesAndRecipes",
+        "questionType": "multipleChoice",
+        "question": "What is the correct recipe for a kids chocolate shake?",
+        "answer": "choice2",
+        "answerChoices": {
+            "choice1": "1/2 oz chocolate, 4 1/2 oz ice cream mix",
+            "choice2": "1 oz chocolate, 4 oz ice cream mix",
+            "choice3": "2 oz chocolate, 4 oz ice cream mix",
+            "choice4": "4 oz chocolate, 4 oz ice cream mix"
+        }
+    },
+    {
+        "quizName": "Kids Drinks Principles and Recipes",
+        "quizParam": "kidsDrinksPrinciplesAndRecipes",
+        "questionType": "multipleChoice",
+        "question": "What is the correct recipe for a bleu raspberry Kids Fizz?",
+        "answer": "choice2",
+        "answerChoices": {
+            "choice1": "1/2 scoop blue raspberry, fill to the 6 oz line with sparkling water",
+            "choice2": "1 scoop blue raspberry, fill to the 5 oz line with sparkling water",
+            "choice3": "1 scoop blue raspberry, fill to the 6 oz line with sparkling water",
+            "choice4": "2 scoops blue raspberry, fill to the 8 oz line with sparkling water"
+        }
+    },
+    {
+        "quizName": "Kid's Drink Temp Range",
+        "quizParam": "kidsDrinkTempRange",
+        "questionType": "multipleChoice",
+        "question": "What is the correct temperature range for serving kids' drinks?",
+        "answer": "choice3",
+        "answerChoices": {
+            "choice1": "75°-85°",
+            "choice2": "100°-110°",
+            "choice3": "110°-120°",
+            "choice4": "120°-130°"
+        }
+    },
+    {
+        "quizName": "Kid's Drink Temp Range",
+        "quizParam": "kidsDrinkTempRange",
+        "questionType": "selectAll",
+        "question": "Select all temperatures that are too hot for kids' dirnks:",
+        "answer": ["choice4", "choice5", "choice6"],
+        "answerChoices": {
+            "choice1": "100°",
+            "choice2": "115°",
+            "choice3": "120°",
+            "choice4": "121°",
+            "choice5": "130°",
+            "choice6": "140°"
+        }
+    },
+    {
+        "quizName": "Lemonade Chiller Freezer Recipes",
+        "quizParam": "lemonadeChillerFreezerRecipes",
+        "questionType": "multipleChoice",
+        "question": "Select the correct recipe for a medium blue raspberry lemonade Chiller:",
+        "answer": "choice1",
+        "answerChoices": {
+            "choice1": "1 oz blue raspberry, fill to the 6 with lemon concentrate, then fill to the 12 with lemonade",
+            "choice2": "3 oz blue raspberry, fill to the 12 oz line with lemonade",
+            "choice3": "1 oz blue raspberry, fill to the 6 oz line with lemonade, then to the 12 with lemon concentrate",
+            "choice4": "1 oz blue raspberry, fill to the 9 with lemon concentrate, then fill to the 12 with lemonade"
+        }
+    },
+    {
+        "quizName": "Lemonade Chiller Freezer Recipes",
+        "quizParam": "lemonadeChillerFreezerRecipes",
+        "questionType": "multipleChoice",
+        "question": "Select the correct recipe for a large lemonade Chiller:",
+        "answer": "choice3",
+        "answerChoices": {
+            "choice1": "16 oz of lemonade",
+            "choice2": "12 oz lemonade concentrate, 4 oz of lemonade",
+            "choice3": "8 oz lemonade concentrate, 8 oz of lemonade",
+            "choice4": "6 oz lemonade concentrate, 6 oz of lemonade"
+        }
+    },
+    {
+        "quizName": "Lemonade Chiller Freezer Recipes",
+        "quizParam": "lemonadeChillerFreezerRecipes",
+        "questionType": "trueFalse",
+        "question": "This is the correct recipe for a large cherry lemon freeze: 2 scoops of cherry, fill to the 8 with lemon concentrate, fill tro the 16 with ice cream mix, full cup of ice.",
+        "answer": "choice1",
+        "answerChoices": {
+            "choice1": "true",
+            "choice2": "false"
+        }
+    },
+    {
+        "quizName": "Lemonade Iced Recipes",
+        "quizParam": "lemonadeIcedRecipes",
+        "questionType": "multipleChoice",
+        "question": "How many scoops of flavor go in a large iced strawberry lemonade?",
+        "answer": "choice2",
+        "answerChoices": {
+            "choice1": "1",
+            "choice2": "2",
+            "choice3": "3",
+            "choice4": "4"
+        }
+    },
+    {
+        "quizName": "Lemonade Iced Recipes",
+        "quizParam": "lemonadeIcedRecipes",
+        "questionType": "multipleChoice",
+        "question": "How many scoops of flavor go in a medium iced raspberry lemonade?",
+        "answer": "choice1",
+        "answerChoices": {
+            "choice1": "1",
+            "choice2": "2",
+            "choice3": "3",
+            "choice4": "4"
+        }
+    },
+    {
+        "quizName": "Lemonade Iced Recipes",
+        "quizParam": "lemonadeIcedRecipes",
+        "questionType": "trueFalse",
+        "question": "All lemonade scoops are 1-1-2.",
+        "answer": "choice1",
+        "answerChoices": {
+            "choice1": "true",
+            "choice2": "false"
+        }
+    },
+    {
+        "quizName": "Light Ice Mix Lines",
+        "quizParam": "lightIceMixLines",
+        "questionType": "multipleChoice",
+        "question": "How many ounces of liquid would you add to a light ice drink?",
+        "answer": "choice2",
+        "answerChoices": {
+            "choice1": "3 ounces",
+            "choice2": "4 ounces",
+            "choice3": "5 ounces",
+            "choice4": "6 ounces",
+            "choice5": "Free-pour as needed to top off the cup"
+        }
+    },
+    {
+        "quizName": "Light Ice Mix Lines",
+        "quizParam": "lightIceMixLines",
+        "questionType": "trueFalse",
+        "question": "A large light ice drink will have 22 ounces of total liquid.",
+        "answer": "choice2",
+        "answerChoices": {
+            "choice1": "true",
+            "choice2": "false"
+        }
+    },
+    {
+        "quizName": "Make it a Triple 7 Shots",
+        "quizParam": "makeItATriple7Shots",
+        "questionType": "multipleChoice",
+        "question": "How many total espresso shots go in a drink with a 'Make it a Triple 7' modification?",
+        "answer": "choice2",
+        "answerChoices": {
+            "choice1": "Small: 2, Medium: 2, Large: 4",
+            "choice2": "6 shots for any size",
+            "choice3": "4 shots for any size",
+            "choice4": "Small: 2, Medium: 4, Large: 6"
+        }
+    },
+    {
+        "quizName": "Make it a Triple 7 Shots",
+        "quizParam": "makeItATriple7Shots",
+        "questionType": "multipleChoice",
+        "question": "How many total shots does a small EXTRA-SHOT 'Make it a Triple 7' have?",
+        "answer": "choice4",
+        "answerChoices": {
+            "choice1": "4",
+            "choice2": "5",
+            "choice3": "6",
+            "choice4": "7",
+            "choice5": "8"
+        }
+    },
+    {
+        "quizName": "Mix Lines",
+        "quizParam": "mixLines",
+        "questionType": "multipleChoice",
+        "question": "What are the fill lines for kids, small, medium, large iced drinks?",
+        "answer": "choice2",
+        "answerChoices": {
+            "choice1": "6, 8, 12, 16",
+            "choice2": "5, 8, 12, 16",
+            "choice3": "6, 9, 14, 18",
+            "choice4": "5, 10, 12, 16",
+            "choice5": "4, 8, 12, 16"
+        }
+    },
+    {
+        "quizName": "Mochas - Milk Alternative and Suger-Free Principles",
+        "quizParam": "mochasMilkAltAndSFPrinciples",
+        "questionType": "selectAll",
+        "question": "If a medium hot or iced German Chocolate is ordered with almond milk, select all of the folowwing that would chanmge about the recipe:",
+        "answer": ["choice1", "choice3", "choice4"],
+        "answerChoices": {
+            "choice1": "Almond milk would be used instead of the usual milk",
+            "choice2": "Sugar-free flavor would be used",
+            "choice3": "Half of the total flavor would be dark chocolate sauce",
+            "choice4": "Two scoops of total flavor would be used",
+            "choice5": "One scoop of total flavor would be used"
+        }
+    },
+    {
+        "quizName": "Mochas - Milk Alternative and Suger-Free Principles",
+        "quizParam": "mochasMilkAltAndSFPrinciples",
+        "questionType": "selectAll",
+        "question": "If a small hot or iced caramel mocha is ordered 'Skinny', select all of the following that would change about the recipe:",
+        "answer": ["choice1", "choice2", "choice4"],
+        "answerChoices": {
+            "choice1": "Skim milk would be used instead of the usual milk",
+            "choice2": "Sugar-free flavor would be used",
+            "choice3": "Smooth Mix would be used instead of the usual milk",
+            "choice4": "Half of the total flavor would be SF dark chocolate sauce",
+            "choice5": "Two total scoops of flavor would be used"
+        }
+    },
+    {
+        "quizName": "Mochas - Milk Alternative and Suger-Free Principles",
+        "quizParam": "mochasMilkAltAndSFPrinciples",
+        "questionType": "selectAll",
+        "question": "Select all applicable examples that would require a mocha to be made without any Mocha Mix:",
+        "answer": ["choice3", "choice4", "choice5"],
+        "answerChoices": {
+            "choice1": "SThe mocha is ordered with white chocolate sauce",
+            "choice2": "The mocha is ordered half-sweet",
+            "choice3": "The mocha is ordered sugar-free",
+            "choice4": "The mocha is ordered with a milk alternative",
+            "choice5": "The mocha is ordered 'Skinny'"
+        }
+    },
+    {
+        "quizName": "Mochas - Milk Alternative and Suger-Free Principles",
+        "quizParam": "mochasMilkAltAndSFPrinciples",
+        "questionType": "selectAll",
+        "question": "Select all drink orders that would use 1 total scoop of flavor for a small, 2 total scoops of flavor for a medium, and 2 total scoops of flavor for a large:",
+        "answer": ["choice1", "choice3", "choice5", "choice6"],
+        "answerChoices": {
+            "choice1": "Hot almond milk vanilla mocha",
+            "choice2": "Iced caramel mocha",
+            "choice3": "Iced sugar-free White Chocolate mocha",
+            "choice4": "Hot German Chocolate",
+            "choice5": "Hot skim milk Brunette",
+            "choice6": "Iced sugar-free Blondie"
+        }
+    },
+    {
+        "quizName": "Original and Sugar-Free Original Breve Scoops",
+        "quizParam": "originalAndSFOriginalBreveScoops",
+        "questionType": "multipleChoice",
+        "question": "How many scoops of flavor go in a small, medium, and large Original Breve?",
+        "answer": "choice3",
+        "answerChoices": {
+            "choice1": "1-1-1",
+            "choice2": "1-2-3",
+            "choice3": "1-2-2",
+            "choice4": "1-2-4"
+        }
+    },
+    {
+        "quizName": "Original and Sugar-Free Original Breve Scoops",
+        "quizParam": "originalAndSFOriginalBreveScoops",
+        "questionType": "multipleChoice",
+        "question": "How many scoops of flavor go in a medium sugar-free Smooth 7?",
+        "answer": "choice2",
+        "answerChoices": {
+            "choice1": "1",
+            "choice2": "2",
+            "choice3": "3",
+            "choice4": "4"
+        }
+    },
+    {
+        "quizName": "Original Flavors",
+        "quizParam": "originalFlavors",
+        "questionType": "selectAll",
+        "question": "Select all syrups and/or sauces used to make a German Chocolate:",
+        "answer": ["choice3", "choice5"],
+        "answerChoices": {
+            "choice1": "White Chocolate",
+            "choice2": "Chcolate Macadamia Nut",
+            "choice3": "Coconut",
+            "choice4": "Salted Caramel",
+            "choice5": "Caramel",
+            "choice6": "Irish Cream"
+        }
+    },
+    {
+        "quizName": "Original Flavors",
+        "quizParam": "originalFlavors",
+        "questionType": "selectAll",
+        "question": "Select all syrups and/or sauces used to make a Brunette:",
+        "answer": ["choice2", "choice5"],
+        "answerChoices": {
+            "choice1": "Salted Caramel",
+            "choice2": "Caramel",
+            "choice3": "Coconut",
+            "choice4": "Irish Cream",
+            "choice5": "Hazelnut",
+            "choice6": "White Chocolate"
+        }
+    },
+    {
+        "quizName": "Original Flavors",
+        "quizParam": "originalFlavors",
+        "questionType": "selectAll",
+        "question": "Select all syrups and/or sauces used to make a Blondie:",
+        "answer": ["choice4", "choice6"],
+        "answerChoices": {
+            "choice1": "Coconut",
+            "choice2": "White Chocolate",
+            "choice3": "Dark Chocolate",
+            "choice4": "Vanilla",
+            "choice5": "Cupcake",
+            "choice6": "Caramel"
+        }
+    },
+    {
+        "quizName": "Original Flavors",
+        "quizParam": "originalFlavors",
+        "questionType": "selectAll",
+        "question": "Select all syrups and/or sauces used to make a Smooth 7:",
+        "answer": ["choice4", "choice5"],
+        "answerChoices": {
+            "choice1": "Smoothie Mix",
+            "choice2": "Chocolate Macadamia Nut",
+            "choice3": "Salted Caramel",
+            "choice4": "White Chocolate",
+            "choice5": "Irish Cream",
+            "choice6": "Blondie",
+            "choice7": "Caramel"
+        }
+    },
+    {
+        "quizName": "Original Flavors",
+        "quizParam": "originalFlavors",
+        "questionType": "selectAll",
+        "question": "Select all syrups and/or sauces used to make a Sweet & Salty:",
+        "answer": ["choice3", "choice6"],
+        "answerChoices": {
+            "choice1": "Salt",
+            "choice2": "Honey",
+            "choice3": "Salted Caramel",
+            "choice4": "Caramel",
+            "choice5": "Vanilla",
+            "choice6": "White Chocolate",
+            "choice7": "Dark Chocolate",
+            "choice8": "Irish Cream"
+        }
+    },
+    {
+        "quizName": "Original Flavors",
+        "quizParam": "originalFlavors",
+        "questionType": "selectAll",
+        "question": "Select all syrups and/or sauces used to make a Cinnamon Roll:",
+        "answer": ["choice4", "choice6"],
+        "answerChoices": {
+            "choice1": "Dark Chocolate",
+            "choice2": "Hazelnut",
+            "choice3": "Coconut",
+            "choice4": "Brown Sugar Cinnamon",
+            "choice5": "Salted Caramel",
+            "choice6": "White Chocolate",
+            "choice7": "Caramel"
+        }
+    },
+    {
+        "quizName": "Original Flavors",
+        "quizParam": "originalFlavors",
+        "questionType": "selectAll",
+        "question": "Select all syrups and/or sauces used to make a White Chocolate Mocha:",
+        "answer": ["choice1"],
+        "answerChoices": {
+            "choice1": "White Chocolate",
+            "choice2": "Irish Cream",
+            "choice3": "Smooth 7",
+            "choice4": "Caramel",
+            "choice5": "Vanilla",
+            "choice6": "Hazelnut",
+            "choice7": "Salted Caramel"
+        }
+    },
+    {
+        "quizName": "Original Mocha Scoops",
+        "quizParam": "originalMochaScoops",
+        "questionType": "multipleChoice",
+        "question": "How many scoops of flavor go in a small, medium, and large Original Mocha?",
+        "answer": "choice3",
+        "answerChoices": {
+            "choice1": "1-1-3",
+            "choice2": "1-2-2",
+            "choice3": "1-1-2",
+            "choice4": "2-2-3"
+        }
+    },
+    {
+        "quizName": "Original Mocha Scoops",
+        "quizParam": "originalMochaScoops",
+        "questionType": "multipleChoice",
+        "question": "How many scoops of flavor go in a medium Original Mocha?",
+        "answer": "choice1",
+        "answerChoices": {
+            "choice1": "1",
+            "choice2": "2",
+            "choice3": "3",
+            "choice4": "4"
+        }
+    },
+    {
+        "quizName": "Original Recipes",
+        "quizParam": "originalRecipes",
+        "questionType": "multipleChoice",
+        "question": "What is the correct recipe for a small, light ice, Make it a Triple 7 Smooth 7?",
+        "answer": "choice2",
+        "answerChoices": {
+            "choice1": "1 scoop Smooth 7 flavor, 4 espresso shots, fill to the 8oz line with Smooth Mix",
+            "choice2": "1 scoop Smooth 7 flavor, 6 espresso shots, fill to the 12oz line with Smooth Mix",
+            "choice3": "2 scoop Smooth 7 flavor, 7 espresso shots, fill to the 8oz line with Smooth Mix",
+            "choice4": "2 scoop Smooth 7 flavor, 6 espresso shots, fill to the 12oz line with Smooth Mix"
+        }
+    },
+    {
+        "quizName": "Original Recipes",
+        "quizParam": "originalRecipes",
+        "questionType": "multipleChoice",
+        "question": "What is the correct recipe for a medium hot/iced almond milk Brunette?",
+        "answer": "choice3",
+        "answerChoices": {
+            "choice1": "2 scoops Brunette flavor, 2 espresso shots, almond milk",
+            "choice2": "1/2 scoop Brunette flavor, 1/2 scoop chocolate, 4 espresso shots, almond milk",
+            "choice3": "1 scoop Brunette flavor, 1 scoop chocolate, 2 espresso shots, almond milk",
+            "choice4": "1 scoop Brunette flavor, 1/4 scoop chocolate, 2 espresso shots, almond milk"
+        }
+    },
+    {
+        "quizName": "Original Recipes",
+        "quizParam": "originalRecipes",
+        "questionType": "multipleChoice",
+        "question": "If no premix flavor bottles are available, what is the correct recipe for a small iced sugar-free German Chocolate?",
+        "answer": "choice2",
+        "answerChoices": {
+            "choice1": "1/2 scoop SF coconut, 1/2 scoop SF caramel, 2 espresso shots, Mocha Mix",
+            "choice2": "1/2 scoop SF chocolate, 1/4 scoop SF coconut, 1/4 scoop SF caramel, 2 espresso shots, Smooth Mix",
+            "choice3": "1/2 scoop SF coconut, 1/2 scoop SF caramel, 2 espresso shots, Smooth Mix",
+            "choice4": "1/3 scoop SF chocolate, 1/3 scoop SF coconut, 1/3 scoop SF caramel, 2 espresso shots, Smooth Mix"
+        }
+    },
+    {
+        "quizName": "Original Recipes",
+        "quizParam": "originalRecipes",
+        "questionType": "multipleChoice",
+        "question": "What is the correct recipe for a large hot oat milk Smooth 7?",
+        "answer": "choice4",
+        "answerChoices": {
+            "choice1": "1 scoop Smooth 7 flavor, 4 espresso shots, Smooth Mix",
+            "choice2": "2 scoop Smooth 7 flavor, 6 espresso shots, Smooth Mix",
+            "choice3": "2 scoop Smooth 7 flavor, 6 espresso shots, oat milk",
+            "choice4": "2 scoop Smooth 7 flavor, 4 espresso shots, oat milk"
+        }
+    },
+    {
+        "quizName": "Original Recipes",
+        "quizParam": "originalRecipes",
+        "questionType": "multipleChoice",
+        "question": "What is the correct recipe for a medium hot/iced skim milk White Chocolate Mocha?",
+        "answer": "choice2",
+        "answerChoices": {
+            "choice1": "1/2 scoop white chocolate, 1/2 scoop dark chocolate, 2 espresso shots, skim milk",
+            "choice2": "1 scoop white chocolate, 1 scoop dark chocolate, 2 espresso shots, skim milk",
+            "choice3": "2 scoops sugar-free white chocolate, 2 espresso shots, skim milk",
+            "choice4": "2 scoops white chocolate, 2 espresso shots, skim milk"
+        }
+    },
+    {
+        "quizName": "Originals vs Classics",
+        "quizParam": "originalsVsClassics",
+        "questionType": "selectAll",
+        "question": "Select all Classic coffee drinks:",
+        "answer": ["choice1", "choice5", "choice6", "choice7", "choice10", "choice11"],
+        "answerChoices": {
+            "choice1": "Breve",
+            "choice2": "Smooth 7",
+            "choice3": "Blondie",
+            "choice4": "German Chocolate",
+            "choice5": "House Blend",
+            "choice6": "Cappuccino",
+            "choice7": "Latte",
+            "choice8": "Brunette",
+            "choice9": "7 Fizz",
+            "choice10": "Mocha",
+            "choice11": "Caramel Macchiato"
+        }
+    },
+    {
+        "quizName": "Originals vs Classics",
+        "quizParam": "originalsVsClassics",
+        "questionType": "trueFalse",
+        "question": "A caramel mocha, a hot House Blend, and an Irish cream latte are all Classic Drinks.",
+        "answer": "choice1",
+        "answerChoices": {
+            "choice1": "true",
+            "choice2": "false"
+        }
+    },
+    {
+        "quizName": "Seven Fizz Principles and Recipes",
+        "quizParam": "sevenFizzPrinciplesAndRecipes",
+        "questionType": "multipleChoice",
+        "question": "How many scoops of flavor go in a small 7 fizz?",
+        "answer": "choice2",
+        "answerChoices": {
+            "choice1": "1",
+            "choice2": "2",
+            "choice3": "3",
+            "choice4": "4"
+        }
+    },
+    {
+        "quizName": "Seven Fizz Principles and Recipes",
+        "quizParam": "sevenFizzPrinciplesAndRecipes",
+        "questionType": "multipleChoice",
+        "question": "How many scoops of flavor go in a medium 7 fizz?",
+        "answer": "choice3",
+        "answerChoices": {
+            "choice1": "1",
+            "choice2": "2",
+            "choice3": "3",
+            "choice4": "4"
+        }
+    },
+    {
+        "quizName": "Seven Fizz Principles and Recipes",
+        "quizParam": "sevenFizzPrinciplesAndRecipes",
+        "questionType": "multipleChoice",
+        "question": "How many scoops of flavor go in a large 7 fizz?",
+        "answer": "choice2",
+        "answerChoices": {
+            "choice1": "1",
+            "choice2": "2",
+            "choice3": "3",
+            "choice4": "4"
+        }
+    },
+    {
+        "quizName": "Seven Fizz Principles and Recipes",
+        "quizParam": "sevenFizzPrinciplesAndRecipes",
+        "questionType": "multipleChoice",
+        "question": "Which question should you ask a customer who orders a 7 Fizz?",
+        "answer": "choice2",
+        "answerChoices": {
+            "choice1": "Would you like to try a milk alternative instead of dairy?",
+            "choice2": "Would you like cream in your 7 Fizz?",
+            "choice3": "Would you like whipped cream on your 7 Fizz?",
+            "choice4": "Would you like the leftover sparkling water in the can?"
+        }
+    },
+    {
+        "quizName": "Seven Fizz Principles and Recipes",
+        "quizParam": "sevenFizzPrinciplesAndRecipes",
+        "questionType": "multipleChoice",
+        "question": "What is the default cream for a 7 Fizz?",
+        "answer": "choice3",
+        "answerChoices": {
+            "choice1": "Skim Milk",
+            "choice2": "Whole Milk",
+            "choice3": "Smooth Mix",
+            "choice4": "Ice Cream Mix"
+        }
+    },
+    {
+        "quizName": "Seven Fizz Principles and Recipes",
+        "quizParam": "sevenFizzPrinciplesAndRecipes",
+        "questionType": "trueFalse",
+        "question": "Seven Fizz's are made with flavor first, then 7 Fizz, pour over ice, tom-tom, and then add cream if requested.",
+        "answer": "choice2",
+        "answerChoices": {
+            "choice1": "true",
+            "choice2": "false"
+        }
+    },
+    {
+        "quizName": "Seven Fizz Principles and Recipes",
+        "quizParam": "sevenFizzPrinciplesAndRecipes",
+        "questionType": "multipleChoice",
+        "question": "The default cream for 7 Fizz's are:",
+        "answer": "choice3",
+        "answerChoices": {
+            "choice1": "1-1-1-1",
+            "choice2": "2-2-2-2",
+            "choice3": "1-1-2-2",
+            "choice4": "1-2-3-4"
+        }
+    },
+    {
+        "quizName": "Shot Window / Scoops",
+        "quizParam": "shotWindowScoops",
+        "questionType": "multipleChoice",
+        "question": "What is the 7 Brew shot window?",
+        "answer": "choice3",
+        "answerChoices": {
+            "choice1": "18-28 seconds",
+            "choice2": "15-25 seconds",
+            "choice3": "17-27 seconds",
+            "choice4": "22-26 seconds"
+        }
+    },
+    {
+        "quizName": "Shot Window / Scoops",
+        "quizParam": "shotWindowScoops",
+        "questionType": "selectAll",
+        "question": "Select all shot times that are within the acceptable 7 Brew shot window:",
+        "answer": ["choice3", "choice4", "choice5"],
+        "answerChoices": {
+            "choice1": "12 seconds",
+            "choice2": "16 seconds",
+            "choice3": "18 seconds",
+            "choice4": "25 seconds",
+            "choice5": "27 seconds",
+            "choice6": "29 seconds"
+        }
+    },
+    {
+        "quizName": "Shot Window / Scoops",
+        "quizParam": "shotWindowScoops",
+        "questionType": "multipleChoice",
+        "question": "How many ounces are our scoops?",
+        "answer": "choice3",
+        "answerChoices": {
+            "choice1": "0.5 ounces",
+            "choice2": "0.9 ounces",
+            "choice3": "1 ounce",
+            "choice4": "1.5 ounces"
+        }
+    },
+    {
+        "quizName": "Smoothie and Shake Principles",
+        "quizParam": "smoothieAndShakePrinciples",
+        "questionType": "trueFalse",
+        "question": "More ice cream mix is used in a smoothie than in a shake.",
+        "answer": "choice2",
+        "answerChoices": {
+            "choice1": "true",
+            "choice2": "false"
+        }
+    },
+    {
+        "quizName": "Smoothie and Shake Principles",
+        "quizParam": "smoothieAndShakePrinciples",
+        "questionType": "trueFalse",
+        "question": "1, 2, 3, 4 and 4, 6, 9, 12 are our main measurement numbers for making both smoothies and shakes.",
+        "answer": "choice1",
+        "answerChoices": {
+            "choice1": "true",
+            "choice2": "false"
+        }
+    },
+    {
+        "quizName": "Smoothie and Shake Recipes",
+        "quizParam": "smoothieAndShakeRecipes",
+        "questionType": "multipleChoice",
+        "question": "What is the correct recipe for a medium mango smoothie?",
+        "answer": "choice4",
+        "answerChoices": {
+            "choice1": "3 oz mango smoothie mix, 9 oz ice cream mix",
+            "choice2": "4 oz mango smoothie mix, 8 oz ice cream mix",
+            "choice3": "6 oz mango smoothie mix, 6 oz ice cream mix",
+            "choice4": "9 oz mango smoothie mix, 3 oz ice cream mix"
+        }
+    },
+    {
+        "quizName": "Smoothie and Shake Recipes",
+        "quizParam": "smoothieAndShakeRecipes",
+        "questionType": "multipleChoice",
+        "question": "What is the correct recipe for a medium vanilla shake?",
+        "answer": "choice1",
+        "answerChoices": {
+            "choice1": "3 oz vanilla, 9 oz ice cream mix",
+            "choice2": "4 oz vanilla, 8 oz ice cream mix",
+            "choice3": "6 oz vanilla, 6 oz ice cream mix",
+            "choice4": "9 oz vanilla, 3 oz ice cream mix"
+        }
+    },
+    {
+        "quizName": "Smoothie and Shake Recipes",
+        "quizParam": "smoothieAndShakeRecipes",
+        "questionType": "multipleChoice",
+        "question": "What is the correct recipe for a small chocolate shake?",
+        "answer": "choice2",
+        "answerChoices": {
+            "choice1": "1/2 oz chocolate, 1/2 oz caramel, fill to the 8 oz with ice cream mix",
+            "choice2": "1 oz chocolate, 1 oz caramel, fill to the 8 oz with ice cream mix",
+            "choice3": "1 oz chocolate, 3 oz caramel, fill to the 8 oz with ice cream mix",
+            "choice4": "2 oz chocolate, 2 oz caramel, fill to the 6 oz with ice cream mix"
+        }
+    },
+    {
+        "quizName": "Special 7 Recipes",
+        "quizParam": "special7Recipes",
+        "questionType": "multipleChoice",
+        "question": "What is the correct recipe for a large almond milk Brunette Chiller?",
+        "answer": "choice4",
+        "answerChoices": {
+            "choice1": "4 scoops Brunette, 4 espresso shots, fill to the 12 oz line with almond milk",
+            "choice2": "4 scoops Brunette, 4 espresso shots, fill to the 16 oz line with almond milk",
+            "choice3": "2 scoops Brunette, 2 scoops chocolate, 4 espresso shots, fill to the 16 oz line with almond milk",
+            "choice4": "2 scoops Brunette, 2 scoops chocolate, 4 espresso shots, fill to the 12 oz line with almond milk"
+        }
+    },
+    {
+        "quizName": "Special 7 Recipes",
+        "quizParam": "special7Recipes",
+        "questionType": "multipleChoice",
+        "question": "What is the correct recipe for a medium half-sweet oat milk Blondie Chiller?",
+        "answer": "choice2",
+        "answerChoices": {
+            "choice1": "2 scoops Blondie, 2 espresso shots, fill to the 12 oz line with oat milk",
+            "choice2": "1 1/2 scoops Blondie, 2 espresso shots, fill to the 9 oz line with oat milk",
+            "choice3": "3 scoops Blondie, 2 espresso shots, fill to the 9 oz line with oat milk",
+            "choice4": "2 scoops Blondie, 2 espresso shots, fill to the 9 oz line with oat milk"
+        }
+    },
+    {
+        "quizName": "Special 7 Recipes",
+        "quizParam": "special7Recipes",
+        "questionType": "multipleChoice",
+        "question": "What is the correct recipe for a large decaf mocha chiller?",
+        "answer": "choice1",
+        "answerChoices": {
+            "choice1": "4 scoops chocolate, 4 decaf espresso shots, fill to the 12 with mocha mix",
+            "choice2": "4 scoops chocolate, 4 decaf espresso shots, fill to the 12 with whole milk",
+            "choice3": "4 scoops chocolate, 4 decaf espresso shots, fill to the 16 with whole milk",
+            "choice4": "4 decaf espresso shots, fill to the 12 with mocha mix"
+        }
+    },
+    {
+        "quizName": "Special 7 Recipes",
+        "quizParam": "special7Recipes",
+        "questionType": "multipleChoice",
+        "question": "What is the correct recipe for a large hot skinny vanilla mocha?",
+        "answer": "choice2",
+        "answerChoices": {
+            "choice1": "1/2 scoop vanilla, 1/2 scoop dark chocolate, quad shot espresso, Mocha Mix",
+            "choice2": "1 scoop sugar-free vanilla, 1 scoop sugar-free chocolate, quad shot espresso, skim milk",
+            "choice3": "1 scoop vanilla, 1 scoop chocolate, quad shot espresso, skimn milk",
+            "choice4": "1/2 scoop sugar-free vanilla, 1/2 scoop sugar-free chocolate, quad shot espresso, skim milk"
+        }
+    },
+    {
+        "quizName": "Sugar-Free Mocha Scoops",
+        "quizParam": "sugarFreeMochaScoops",
+        "questionType": "multipleChoice",
+        "question": "How many scoops of flavor go in a small, medium, and large sugar-free German Chocolate Mocha?",
+        "answer": "choice2",
+        "answerChoices": {
+            "choice1": "1-1-2",
+            "choice2": "1-2-2",
+            "choice3": "1-3-3",
+            "choice4": "1-2-4"
+        }
+    },
+    {
+        "quizName": "Sugar-Free Mocha Scoops",
+        "quizParam": "sugarFreeMochaScoops",
+        "questionType": "multipleChoice",
+        "question": "How many scoops of flavor go in a medium sugar-free Caramel Mocha?",
+        "answer": "choice2",
+        "answerChoices": {
+            "choice1": "1",
+            "choice2": "2",
+            "choice3": "3",
+            "choice4": "4"
+        }
+    },
+    {
+        "quizName": "Tea Recipes",
+        "quizParam": "teaRecipes",
+        "questionType": "multipleChoice",
+        "question": "What is the correct recipe for a medium hot peach black tea?",
+        "answer": "choice1",
+        "answerChoices": {
+            "choice1": "1 scoop peach, 1 black tea bag, Bunn water",
+            "choice2": "1 scoop peach, 2 black tea bags, Bunn water",
+            "choice3": "2 scoops peach, 1 black tea bag, Bunn water",
+            "choice4": "2 scoops peach, 2 black tea bags, Bunn water"
+        }
+    },
+    {
+        "quizName": "Tea Recipes",
+        "quizParam": "teaRecipes",
+        "questionType": "multipleChoice",
+        "question": "What is the correct recipe for a large hot vanilla earl grey tea?",
+        "answer": "choice2",
+        "answerChoices": {
+            "choice1": "1 scoop vanilla, 1 earl grey tea bag, Bunn water",
+            "choice2": "1 scoop vanilla, 2 earl grey tea bags, Bunn water",
+            "choice3": "2 scoops vanilla, 2 earl grey tea bags, Bunn water",
+            "choice4": "3 scoops vanilla, 2 earl grey tea bags, Bunn water"
+        }
+    },
+    {
+        "quizName": "Tea Recipes",
+        "quizParam": "teaRecipes",
+        "questionType": "multipleChoice",
+        "question": "How many scoops of flavor go in a medium iced strawberry green tea?",
+        "answer": "choice2",
+        "answerChoices": {
+            "choice1": "1",
+            "choice2": "2",
+            "choice3": "3",
+            "choice4": "4"
+        }
+    },
+    {
+        "quizName": "Tea Recipes",
+        "quizParam": "teaRecipes",
+        "questionType": "multipleChoice",
+        "question": "How many scoops of flavor go in a large iced sweet black tea?",
+        "answer": "choice3",
+        "answerChoices": {
+            "choice1": "1",
+            "choice2": "2",
+            "choice3": "3",
+            "choice4": "4"
+        }
+    },
+    {
+        "quizName": "Tea Recipes",
+        "quizParam": "teaRecipes",
+        "questionType": "multipleChoice",
+        "question": "How many scoops of flavor go in a large peach green tea Chiller?",
+        "answer": "choice4",
+        "answerChoices": {
+            "choice1": "1",
+            "choice2": "2",
+            "choice3": "3",
+            "choice4": "4"
+        }
+    },
+    {
+        "quizName": "Tea Recipes",
+        "quizParam": "teaRecipes",
+        "questionType": "multipleChoice",
+        "question": "How many scoops of flavor go in a medium raspberry green tea Chiller?",
+        "answer": "choice3",
+        "answerChoices": {
+            "choice1": "1",
+            "choice2": "2",
+            "choice3": "3",
+            "choice4": "4"
+        }
+    },
+    {
+        "quizName": "Updated Recipes Sept 2023",
+        "quizParam": "updatedRecipesSept2023",
+        "questionType": "multipleChoice",
+        "question": "Smoothie scoops are ___.",
+        "answer": "choice2",
+        "answerChoices": {
+            "choice1": "1-1-1",
+            "choice2": "1-1-2",
+            "choice3": "1-2-3",
+            "choice4": "2-3-4"
+        }
+    },
+    {
+        "quizName": "Updated Recipes Sept 2023",
+        "quizParam": "updatedRecipesSept2023",
+        "questionType": "multipleChoice",
+        "question": "When you make ANY type of Special 7 Mocha Chiller (inlcluding Originals), it will require ___ the total scoops of flavor to be dark chocolate.",
+        "answer": "choice4",
+        "answerChoices": {
+            "choice1": "None",
+            "choice2": "1/4",
+            "choice3": "1/3",
+            "choice4": "1/2"
+        }
+    },
+    {
+        "quizName": "Updated Recipes Sept 2023",
+        "quizParam": "updatedRecipesSept2023",
+        "questionType": "multipleChoice",
+        "question": "How do you build a half-sweet Mocha Chiller (no flavor/plain)?",
+        "answer": "choice2",
+        "answerChoices": {
+            "choice1": "Regular chiller + 1/4 total flavor scoop(s) of dark chocolate",
+            "choice2": "Regular chiller + 1/2 total flavor scoop(s) of dark chocolate",
+            "choice3": "1/2 mocha chiller + 1/2 regular chiller mixed in a cup",
+            "choice4": "Mocha Chiller + 1/2 total flavor scoop(s) of cane sugar"
+        }
+    },
+    {
+        "quizName": "Updated Recipes Sept 2023",
+        "quizParam": "updatedRecipesSept2023",
+        "questionType": "multipleChoice",
+        "question": "What is the correct way to drizzle if it is required?.",
+        "answer": "choice3",
+        "answerChoices": {
+            "choice1": "Drizzle as you please and make it pretty!",
+            "choice2": "One inch at the bottom of the cup.",
+            "choice3": "Drizzle one ring around the top of the cup."
+        }
+    },
+    {
+        "quizName": "Updated Recipes Sept 2023",
+        "quizParam": "updatedRecipesSept2023",
+        "questionType": "trueFalse",
+        "question": "If drizzle and whipped cream/cold foam is required, you do not have to put drizzle on top of the whipped cream or cold foam.",
+        "answer": "choice2",
+        "answerChoices": {
+            "choice1": "true",
+            "choice2": "false"
+        }
+    },
+    {
+        "quizName": "Updated Recipes Sept 2023",
+        "quizParam": "updatedRecipesSept2023",
+        "questionType": "trueFalse",
+        "question": "If two smoothie flavors are requested in a drink, you must handblend both smoothie flavors together in a blender (example: strawberry mango smoothie).",
+        "answer": "choice1",
+        "answerChoices": {
+            "choice1": "true",
+            "choice2": "false"
+        }
+    },
+    {
+        "quizName": "Updated Recipes Sept 2023",
+        "quizParam": "updatedRecipesSept2023",
+        "questionType": "trueFalse",
+        "question": "This is the correct way to make a medium plain decaf mocha chiller: 3 dark chocolate, 2 shots decaf espresso, then fill to the 9 with mocha mix.",
+        "answer": "choice1",
+        "answerChoices": {
+            "choice1": "true",
+            "choice2": "false"
+        }
+    },
+    {
+        "quizName": "Updated Recipes Sept 2023",
+        "quizParam": "updatedRecipesSept2023",
+        "questionType": "multipleChoice",
+        "question": "If a kid's iced blondie is ordered, how many shots of espresso are used?",
+        "answer": "choice1",
+        "answerChoices": {
+            "choice1": "1",
+            "choice2": "2",
+            "choice3": "1/2",
+            "choice4": "4"
+        }
+    },
+    {
+        "quizName": "Updated Recipes Sept 2023",
+        "quizParam": "updatedRecipesSept2023",
+        "questionType": "trueFalse",
+        "question": "If an extra shot chiller is ordered, put the espresso straight into the plastic cup and then fill with chiller.",
+        "answer": "choice2",
+        "answerChoices": {
+            "choice1": "true",
+            "choice2": "false"
+        }
+    },
+    {
+        "quizName": "Updated Recipes Sept 2023",
+        "quizParam": "updatedRecipesSept2023",
+        "questionType": "multipleChoice",
+        "question": "If a secret menu drink is requested with an additional flavor, the additional flavor will take up ___ of the total scoops of flavor unless otherwise requested (example: a strawberry Ocean Breeze).",
+        "answer": "choice2",
+        "answerChoices": {
+            "choice1": "Even parts",
+            "choice2": "1/2",
+            "choice3": "1/3",
+            "choice4": "1/4"
+        }
+    },
+    {
+        "quizName": "Updated Recipes Sept 2023",
+        "quizParam": "updatedRecipesSept2023",
+        "questionType": "trueFalse",
+        "question": "We do flat, even scoops for flavor.",
+        "answer": "choice1",
+        "answerChoices": {
+            "choice1": "true",
+            "choice2": "false"
+        }
+    }
+]

@@ -1,0 +1,59 @@
+[
+    {
+        "quizName": "Mochas - Milk Alternative and Suger-Free Principles",
+        "quizParam": "mochasMilkAltAndSFPrinciples",
+        "questionType": "selectAll",
+        "question": "If a medium hot or iced German Chocolate is ordered with almond milk, select all of the folowwing that would chanmge about the recipe:",
+        "answer": ["choice1", "choice3", "choice4"],
+        "answerChoices": {
+            "choice1": "Almond milk would be used instead of the usual milk",
+            "choice2": "Sugar-free flavor would be used",
+            "choice3": "Half of the total flavor would be dark chocolate sauce",
+            "choice4": "Two scoops of total flavor would be used",
+            "choice5": "One scoop of total flavor would be used"
+        }
+    },
+    {
+        "quizName": "Mochas - Milk Alternative and Suger-Free Principles",
+        "quizParam": "mochasMilkAltAndSFPrinciples",
+        "questionType": "selectAll",
+        "question": "If a small hot or iced caramel mocha is ordered 'Skinny', select all of the following that would change about the recipe:",
+        "answer": ["choice1", "choice2", "choice4"],
+        "answerChoices": {
+            "choice1": "Skim milk would be used instead of the usual milk",
+            "choice2": "Sugar-free flavor would be used",
+            "choice3": "Smooth Mix would be used instead of the usual milk",
+            "choice4": "Half of the total flavor would be SF dark chocolate sauce",
+            "choice5": "Two total scoops of flavor would be used"
+        }
+    },
+    {
+        "quizName": "Mochas - Milk Alternative and Suger-Free Principles",
+        "quizParam": "mochasMilkAltAndSFPrinciples",
+        "questionType": "selectAll",
+        "question": "Select all applicable examples that would require a mocha to be made without any Mocha Mix:",
+        "answer": ["choice3", "choice4", "choice5"],
+        "answerChoices": {
+            "choice1": "SThe mocha is ordered with white chocolate sauce",
+            "choice2": "The mocha is ordered half-sweet",
+            "choice3": "The mocha is ordered sugar-free",
+            "choice4": "The mocha is ordered with a milk alternative",
+            "choice5": "The mocha is ordered 'Skinny'"
+        }
+    },
+    {
+        "quizName": "Mochas - Milk Alternative and Suger-Free Principles",
+        "quizParam": "mochasMilkAltAndSFPrinciples",
+        "questionType": "selectAll",
+        "question": "Select all drink orders that would use 1 total scoop of flavor for a small, 2 total scoops of flavor for a medium, and 2 total scoops of flavor for a large:",
+        "answer": ["choice1", "choice3", "choice5", "choice6"],
+        "answerChoices": {
+            "choice1": "Hot almond milk vanilla mocha",
+            "choice2": "Iced caramel mocha",
+            "choice3": "Iced sugar-free White Chocolate mocha",
+            "choice4": "Hot German Chocolate",
+            "choice5": "Hot skim milk Brunette",
+            "choice6": "Iced sugar-free Blondie"
+        }
+    }
+]

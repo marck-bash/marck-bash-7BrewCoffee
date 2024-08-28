@@ -1,0 +1,112 @@
+[
+    {
+        "quizName": "Original Flavors",
+        "quizParam": "originalFlavors",
+        "questionType": "selectAll",
+        "question": "Select all syrups and/or sauces used to make a German Chocolate:",
+        "answer": ["choice3", "choice5"],
+        "answerChoices": {
+            "choice1": "White Chocolate",
+            "choice2": "Chcolate Macadamia Nut",
+            "choice3": "Coconut",
+            "choice4": "Salted Caramel",
+            "choice5": "Caramel",
+            "choice6": "Irish Cream"
+        }
+    },
+    {
+        "quizName": "Original Flavors",
+        "quizParam": "originalFlavors",
+        "questionType": "selectAll",
+        "question": "Select all syrups and/or sauces used to make a Brunette:",
+        "answer": ["choice2", "choice5"],
+        "answerChoices": {
+            "choice1": "Salted Caramel",
+            "choice2": "Caramel",
+            "choice3": "Coconut",
+            "choice4": "Irish Cream",
+            "choice5": "Hazelnut",
+            "choice6": "White Chocolate"
+        }
+    },
+    {
+        "quizName": "Original Flavors",
+        "quizParam": "originalFlavors",
+        "questionType": "selectAll",
+        "question": "Select all syrups and/or sauces used to make a Blondie:",
+        "answer": ["choice4", "choice6"],
+        "answerChoices": {
+            "choice1": "Coconut",
+            "choice2": "White Chocolate",
+            "choice3": "Dark Chocolate",
+            "choice4": "Vanilla",
+            "choice5": "Cupcake",
+            "choice6": "Caramel"
+        }
+    },
+    {
+        "quizName": "Original Flavors",
+        "quizParam": "originalFlavors",
+        "questionType": "selectAll",
+        "question": "Select all syrups and/or sauces used to make a Smooth 7:",
+        "answer": ["choice4", "choice5"],
+        "answerChoices": {
+            "choice1": "Smoothie Mix",
+            "choice2": "Chocolate Macadamia Nut",
+            "choice3": "Salted Caramel",
+            "choice4": "White Chocolate",
+            "choice5": "Irish Cream",
+            "choice6": "Blondie",
+            "choice7": "Caramel"
+        }
+    },
+    {
+        "quizName": "Original Flavors",
+        "quizParam": "originalFlavors",
+        "questionType": "selectAll",
+        "question": "Select all syrups and/or sauces used to make a Sweet & Salty:",
+        "answer": ["choice3", "choice6"],
+        "answerChoices": {
+            "choice1": "Salt",
+            "choice2": "Honey",
+            "choice3": "Salted Caramel",
+            "choice4": "Caramel",
+            "choice5": "Vanilla",
+            "choice6": "White Chocolate",
+            "choice7": "Dark Chocolate",
+            "choice8": "Irish Cream"
+        }
+    },
+    {
+        "quizName": "Original Flavors",
+        "quizParam": "originalFlavors",
+        "questionType": "selectAll",
+        "question": "Select all syrups and/or sauces used to make a Cinnamon Roll:",
+        "answer": ["choice4", "choice6"],
+        "answerChoices": {
+            "choice1": "Dark Chocolate",
+            "choice2": "Hazelnut",
+            "choice3": "Coconut",
+            "choice4": "Brown Sugar Cinnamon",
+            "choice5": "Salted Caramel",
+            "choice6": "White Chocolate",
+            "choice7": "Caramel"
+        }
+    },
+    {
+        "quizName": "Original Flavors",
+        "quizParam": "originalFlavors",
+        "questionType": "selectAll",
+        "question": "Select all syrups and/or sauces used to make a White Chocolate Mocha:",
+        "answer": ["choice1"],
+        "answerChoices": {
+            "choice1": "White Chocolate",
+            "choice2": "Irish Cream",
+            "choice3": "Smooth 7",
+            "choice4": "Caramel",
+            "choice5": "Vanilla",
+            "choice6": "Hazelnut",
+            "choice7": "Salted Caramel"
+        }
+    }
+]

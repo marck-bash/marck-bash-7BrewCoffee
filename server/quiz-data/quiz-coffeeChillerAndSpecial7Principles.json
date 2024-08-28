@@ -1,0 +1,135 @@
+[
+    {
+        "quizName": "Coffee Chiller and Special 7 Principles",
+        "quizParam": "coffeeChillerAndSpecial7Principles",
+        "questionType": "selectAll",
+        "question": "What are the reasons we would need to make a hand-blended Special 7 Chiller instead of using Chiller Machine?",
+        "answer": ["choice2", "choice3", "choice4", "choice6"],
+        "answerChoices": {
+            "choice1": "The customer wants an extra shot",
+            "choice2": "The customer requests sugar-free",
+            "choice3": "The customer asks for only 1 shot of espresso",
+            "choice4": "The customer requests decaf",
+            "choice5": "The customer requests half-sweet",
+            "choice6": "The customer requests a milk alternative"
+        }
+    },
+    {
+        "quizName": "Coffee Chiller and Special 7 Principles",
+        "quizParam": "coffeeChillerAndSpecial7Principles",
+        "questionType": "selectAll",
+        "question": "Select the ingredients of the regular Chiller barrel:",
+        "answer": ["choice1", "choice3", "choice4"],
+        "answerChoices": {
+            "choice1": "Espresso",
+            "choice2": "Smooth Mix",
+            "choice3": "Sugar",
+            "choice4": "Whole Milk",
+            "choice5": "Coffee Grinds",
+            "choice6": "Mocha Mix"
+        }
+    },
+    {
+        "quizName": "Coffee Chiller and Special 7 Principles",
+        "quizParam": "coffeeChillerAndSpecial7Principles",
+        "questionType": "selectAll",
+        "question": "Select the ingredients of the regular Chiller barrel:",
+        "answer": ["choice1", "choice3", "choice4"],
+        "answerChoices": {
+            "choice1": "Espresso",
+            "choice2": "Smooth Mix",
+            "choice3": "Sugar",
+            "choice4": "Whole Milk",
+            "choice5": "Coffee Grinds",
+            "choice6": "Mocha Mix"
+        }
+    },
+    {
+        "quizName": "Coffee Chiller and Special 7 Principles",
+        "quizParam": "coffeeChillerAndSpecial7Principles",
+        "questionType": "selectAll",
+        "question": "Select the ingredients of the mocha Chiller barrel:",
+        "answer": ["choice1", "choice5"],
+        "answerChoices": {
+            "choice1": "Espresso",
+            "choice2": "Sugar",
+            "choice3": "Whole Milk",
+            "choice4": "Coffee Grinds",
+            "choice5": "Mocha Mix"
+        }
+    },
+    {
+        "quizName": "Coffee Chiller and Special 7 Principles",
+        "quizParam": "coffeeChillerAndSpecial7Principles",
+        "questionType": "multipleChoice",
+        "question": "How many total ounces of liquid do Special 7 Chillers get for smalls, mediums, and larges?",
+        "answer": "choice2",
+        "answerChoices": {
+            "choice1": "5, 10, 15",
+            "choice2": "6, 9, 12",
+            "choice3": "6, 12, 16",
+            "choice4": "8, 12, 16"
+        }
+    },
+    {
+        "quizName": "Coffee Chiller and Special 7 Principles",
+        "quizParam": "coffeeChillerAndSpecial7Principles",
+        "questionType": "multipleChoice",
+        "question": "What comes after mixing the ingredients together in the mix cup for a Special 7?",
+        "answer": "choice2",
+        "answerChoices": {
+            "choice1": "Tom-tom and blend",
+            "choice2": "Tom-tom, top with ice, and blend",
+            "choice3": "Tom-tom, top with milk or dairy alternative, and blend",
+            "choice4": "Pour into blender, add a cup of ice on top, and blend"
+        }
+    },
+    {
+        "quizName": "Coffee Chiller and Special 7 Principles",
+        "quizParam": "coffeeChillerAndSpecial7Principles",
+        "questionType": "multipleChoice",
+        "question": "How many total ounces of flavor, espresso shots, and milk would be in a small almond milk mocha Chiller?",
+        "answer": "choice3",
+        "answerChoices": {
+            "choice1": "4",
+            "choice2": "5",
+            "choice3": "6",
+            "choice4": "7",
+            "choice5": "8",
+            "choice6": "9"
+        }
+    },
+    {
+        "quizName": "Coffee Chiller and Special 7 Principles",
+        "quizParam": "coffeeChillerAndSpecial7Principles",
+        "questionType": "trueFalse",
+        "question": "If a mocha Chiller is only requested decaf, whole milk should be used as the milk.",
+        "answer": "choice2",
+        "answerChoices": {
+            "choice1": "true",
+            "chocie2": "false"
+        }
+    },
+    {
+        "quizName": "Coffee Chiller and Special 7 Principles",
+        "quizParam": "coffeeChillerAndSpecial7Principles",
+        "questionType": "trueFalse",
+        "question": "If a Smooth 7 Chiller is requested sugar-free, Smooth Mix should be used as the milk.",
+        "answer": "choice2",
+        "answerChoices": {
+            "choice1": "true",
+            "chocie2": "false"
+        }
+    },
+    {
+        "quizName": "Coffee Chiller and Special 7 Principles",
+        "quizParam": "coffeeChillerAndSpecial7Principles",
+        "questionType": "trueFalse",
+        "question": "If an extra shot is requested in a Smooth 7 Chiller, pour it directly into the plastic ice cup before filling the cup with Chiller Mix so thaty the shots mix well.",
+        "answer": "choice2",
+        "answerChoices": {
+            "choice1": "true",
+            "chocie2": "false"
+        }
+    }
+]

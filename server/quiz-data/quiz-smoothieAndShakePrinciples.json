@@ -1,0 +1,24 @@
+[
+    {
+        "quizName": "Smoothie and Shake Principles",
+        "quizParam": "smoothieAndShakePrinciples",
+        "questionType": "trueFalse",
+        "question": "More ice cream mix is used in a smoothie than in a shake.",
+        "answer": "choice2",
+        "answerChoices": {
+            "choice1": "true",
+            "chocie2": "false"
+        }
+    },
+    {
+        "quizName": "Smoothie and Shake Principles",
+        "quizParam": "smoothieAndShakePrinciples",
+        "questionType": "trueFalse",
+        "question": "1, 2, 3, 4 and 4, 6, 9, 12 are our main measurement numbers for making both smoothies and shakes.",
+        "answer": "choice1",
+        "answerChoices": {
+            "choice1": "true",
+            "chocie2": "false"
+        }
+    }
+]

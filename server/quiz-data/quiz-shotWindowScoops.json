@@ -1,0 +1,43 @@
+[
+    {
+        "quizName": "Shot Window / Scoops",
+        "quizParam": "shotWindowScoops",
+        "questionType": "multipleChoice",
+        "question": "What is the 7 Brew shot window?",
+        "answer": "choice3",
+        "answerChoices": {
+            "choice1": "18-28 seconds",
+            "choice2": "15-25 seconds",
+            "choice3": "17-27 seconds",
+            "choice4": "22-26 seconds"
+        }
+    },
+    {
+        "quizName": "Shot Window / Scoops",
+        "quizParam": "shotWindowScoops",
+        "questionType": "selectAll",
+        "question": "Select all shot times that are within the acceptable 7 Brew shot window:",
+        "answer": ["choice3", "choice4", "choice5"],
+        "answerChoices": {
+            "choice1": "12 seconds",
+            "choice2": "16 seconds",
+            "choice3": "18 seconds",
+            "choice4": "25 seconds",
+            "choice5": "27 seconds",
+            "choice6": "29 seconds"
+        }
+    },
+    {
+        "quizName": "Shot Window / Scoops",
+        "quizParam": "shotWindowScoops",
+        "questionType": "multipleChoice",
+        "question": "How many ounces are our scoops?",
+        "answer": "choice3",
+        "answerChoices": {
+            "choice1": "0.5 ounces",
+            "choice2": "0.9 ounces",
+            "choice3": "1 ounce",
+            "choice4": "1.5 ounces"
+        }
+    }
+]

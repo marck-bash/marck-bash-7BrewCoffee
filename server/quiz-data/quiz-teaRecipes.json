@@ -1,0 +1,80 @@
+[
+    {
+        "quizName": "Tea Recipes",
+        "quizParam": "teaRecipes",
+        "questionType": "multipleChoice",
+        "question": "What is the correct recipe for a medium hot peach black tea?",
+        "answer": "choice1",
+        "answerChoices": {
+            "choice1": "1 scoop peach, 1 black tea bag, Bunn water",
+            "choice2": "1 scoop peach, 2 black tea bags, Bunn water",
+            "choice3": "2 scoops peach, 1 black tea bag, Bunn water",
+            "choice4": "2 scoops peach, 2 black tea bags, Bunn water"
+        }
+    },
+    {
+        "quizName": "Tea Recipes",
+        "quizParam": "teaRecipes",
+        "questionType": "multipleChoice",
+        "question": "What is the correct recipe for a large hot vanilla earl grey tea?",
+        "answer": "choice2",
+        "answerChoices": {
+            "choice1": "1 scoop vanilla, 1 earl grey tea bag, Bunn water",
+            "choice2": "1 scoop vanilla, 2 earl grey tea bags, Bunn water",
+            "choice3": "2 scoops vanilla, 2 earl grey tea bags, Bunn water",
+            "choice4": "3 scoops vanilla, 2 earl grey tea bags, Bunn water"
+        }
+    },
+    {
+        "quizName": "Tea Recipes",
+        "quizParam": "teaRecipes",
+        "questionType": "multipleChoice",
+        "question": "How many scoops of flavor go in a medium iced strawberry green tea?",
+        "answer": "choice2",
+        "answerChoices": {
+            "choice1": "1",
+            "choice2": "2",
+            "choice3": "3",
+            "choice4": "4"
+        }
+    },
+    {
+        "quizName": "Tea Recipes",
+        "quizParam": "teaRecipes",
+        "questionType": "multipleChoice",
+        "question": "How many scoops of flavor go in a large iced sweet black tea?",
+        "answer": "choice3",
+        "answerChoices": {
+            "choice1": "1",
+            "choice2": "2",
+            "choice3": "3",
+            "choice4": "4"
+        }
+    },
+    {
+        "quizName": "Tea Recipes",
+        "quizParam": "teaRecipes",
+        "questionType": "multipleChoice",
+        "question": "How many scoops of flavor go in a large peach green tea Chiller?",
+        "answer": "choice4",
+        "answerChoices": {
+            "choice1": "1",
+            "choice2": "2",
+            "choice3": "3",
+            "choice4": "4"
+        }
+    },
+    {
+        "quizName": "Tea Recipes",
+        "quizParam": "teaRecipes",
+        "questionType": "multipleChoice",
+        "question": "How many scoops of flavor go in a medium raspberry green tea Chiller?",
+        "answer": "choice3",
+        "answerChoices": {
+            "choice1": "1",
+            "choice2": "2",
+            "choice3": "3",
+            "choice4": "4"
+        }
+    }
+]

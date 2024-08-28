@@ -1,0 +1,30 @@
+[
+    {
+        "quizName": "Default Milk 1",
+        "quizParam": "defaultMilk1",
+        "questionType": "multipleChoice",
+        "question": "What milk goes in a breve?",
+        "answer": "choice2",
+        "answerChoices": {
+            "choice1": "2% milk",
+            "choice2": "Smooth Mix",
+            "choice3": "Mocha Mix",
+            "choice4": "Whole Milk",
+            "choice5": "Skim Milk"
+        }
+    },
+    {
+        "quizName": "Default Milk 1",
+        "quizParam": "defaultMilk1",
+        "questionType": "multipleChoice",
+        "question": "Which milk goes in a cappuccino?",
+        "answer": "choice4",
+        "answerChoices": {
+            "choice1": "2% milk",
+            "choice2": "Smooth Mix",
+            "choice3": "Mocha Mix",
+            "choice4": "Whole Milk",
+            "choice5": "Skim Milk"
+        }
+    }
+]

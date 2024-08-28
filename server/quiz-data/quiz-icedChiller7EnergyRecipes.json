@@ -1,0 +1,80 @@
+[
+    {
+        "quizName": "Iced / Chiller 7 Energy Recipes",
+        "quizParam": "icedChiller7EnergyRecipes",
+        "questionType": "multipleChoice",
+        "question": "What is the correct way to build a large iced pineapple 7 Energy?",
+        "answer": "choice1",
+        "answerChoices": {
+            "choice1": "2 scoops pineapple, fill to the 16 oz line with 7 Energy, then pour over ice",
+            "choice2": "2 scoops pineapple, fill to the 20 oz line with 7 Energy, then pour over ice",
+            "choice3": "4 scoops pineapple, fill to the 16 oz line with 7 Energy, then pour over ice",
+            "choice4": "2 scoops pineapple in the large cup, then use a full 12 oz 7 Energy can, plus an additional 2 oz Energy, then top with ice"
+        }
+    },
+    {
+        "quizName": "Iced / Chiller 7 Energy Recipes",
+        "quizParam": "icedChiller7EnergyRecipes",
+        "questionType": "multipleChoice",
+        "question": "How many scoops of flavor go in a medium peach-raspberry 7 Energy Chiiller?",
+        "answer": "choice2",
+        "answerChoices": {
+            "choice1": "1 scoop raspberry, 1 scoop peach",
+            "choice2": "1/2 scoop raspberry, 1/2 scoop peach",
+            "choice3": "1 1/2 scoop raspberry, 1 1/2 scoop peach",
+            "choice4": "2 scoop raspberry, 2 scoop peach"
+        }
+    },
+    {
+        "quizName": "Iced / Chiller 7 Energy Recipes",
+        "quizParam": "icedChiller7EnergyRecipes",
+        "questionType": "multipleChoice",
+        "question": "How many scoops of flavor go in a small watermelon 7 Energy Chiiller?",
+        "answer": "choice1",
+        "answerChoices": {
+            "choice1": "1",
+            "choice2": "2",
+            "choice3": "3",
+            "choice4": "4"
+        }
+    },
+    {
+        "quizName": "Iced / Chiller 7 Energy Recipes",
+        "quizParam": "icedChiller7EnergyRecipes",
+        "questionType": "multipleChoice",
+        "question": "What is the correct recipe for a medium iced blue raspberry 7 Energy?",
+        "answer": "choice4",
+        "answerChoices": {
+            "choice1": "1 scoop blue raspberry, fill to the 12 oz line with 7 Energy, tom-tom",
+            "choice2": "2 scoops blue raspberry, 8 oz of 7 Energy",
+            "choice3": "1 scoop blue raspberry, 12 oz can of 7 Energy",
+            "choice4": "1 scoop blue raspberry, fill to the 12 oz line with 7 Energy"
+        }
+    },
+    {
+        "quizName": "Iced / Chiller 7 Energy Recipes",
+        "quizParam": "icedChiller7EnergyRecipes",
+        "questionType": "multipleChoice",
+        "question": "What is the correct recipe for a large sugar-free coconut 7 Energy Chiller?",
+        "answer": "choice3",
+        "answerChoices": {
+            "choice1": "2 scoops sugar-free coconut added to 7 Energy Chiller",
+            "choice2": "3 scoops sugar-free coconut, fill to the 12 oz line with sugar-free 7 Energy and add ice",
+            "choice3": "4 scoops sugar-free coconut, fill to the 16 oz line with sugar-free 7 Energy and add ice",
+            "choice4": "4 scoops sugar-free coconut, fill to the 12 oz line with sugar-free 7 Energy and add ice"
+        }
+    },
+    {
+        "quizName": "Iced / Chiller 7 Energy Recipes",
+        "quizParam": "icedChiller7EnergyRecipes",
+        "questionType": "multipleChoice",
+        "question": "What is the correct recipe for a medium sugar-free strawberry 7 Energy Chiller?",
+        "answer": "choice4",
+        "answerChoices": {
+            "choice1": "1 scoop sugar-free strawberry and 7 Energy Chiller",
+            "choice2": "1 1/2 scoops sugar-free strawberry and 9 oz of sugar-free 7 Energy",
+            "choice3": "3 scoops sugar-free strawberry, fill to the 9 oz line with sugar-free 7 Energy",
+            "choice4": "3 scoops sugar-free strawberry, fill to the 12 oz line with sugar-free 7 Energy"
+        }
+    }
+]

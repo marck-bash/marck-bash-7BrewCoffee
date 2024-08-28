@@ -1,0 +1,67 @@
+[
+    {
+        "quizName": "Classic Recipes",
+        "quizParam": "classicRecipes",
+        "questionType": "multipleChoice",
+        "question": "What is the correct recipe for a large cappuccino?",
+        "answer": "choice3",
+        "answerChoices": {
+            "choice1": "4 espresso shots, half steamed Smooth Mix, half Smooth Mix froth",
+            "choice2": "4 espresso shots, Smooth Mix froth",
+            "choice3": "4 espresso shots, half steamed whole milk, half whole milk froth",
+            "choice4": "4 espresso shots, whole milk froth"
+        }
+    },
+    {
+        "quizName": "Classic Recipes",
+        "quizParam": "classicRecipes",
+        "questionType": "multipleChoice",
+        "question": "What is the correct recipe for a medium hot/iced almond milk hazelnut mocha?",
+        "answer": "choice2",
+        "answerChoices": {
+            "choice1": "1/2 scoop hazelnut, 1/2 scoop chocolate, 2 espresso shots, almond milk",
+            "choice2": "1 scoop hazelnut, 1 scoop chocolate, 2 espresso shots, almond milk",
+            "choice3": "1 scoop hazelnut, 2 espresso shots, almond milk",
+            "choice4": "2 scoop hazelnut, 2 espresso shots, almond milk"
+        }
+    },
+    {
+        "quizName": "Classic Recipes",
+        "quizParam": "classicRecipes",
+        "questionType": "multipleChoice",
+        "question": "What is the correct recipe for a small hot/iced sugar-free mocha?",
+        "answer": "choice1",
+        "answerChoices": {
+            "choice1": "1 scoop sugar-free chocolate, 2 espresso shots, Smooth Mix",
+            "choice2": "1 scoop sugar-free chocolate, 2 espresso shots, Mocha Mix",
+            "choice3": "2 scoop sugar-free chocolate, 2 espresso shots, Smooth Mix",
+            "choice4": "2 scoop sugar-free chocolate, 2 espresso shots, Mocha Mix"
+        }
+    },
+    {
+        "quizName": "Classic Recipes",
+        "quizParam": "classicRecipes",
+        "questionType": "multipleChoice",
+        "question": "What is the correct recipe for a medium hot/iced caramel-vanilla mocha?",
+        "answer": "choice2",
+        "answerChoices": {
+            "choice1": "1 scoop caramel, 1 scoop vanilla, double shot espresso, chocolate milk",
+            "choice2": "1/2 scoop caramel, 1/2 scoop vanilla, double shot espresso, Mocha Mix",
+            "choice3": "1/3 scoop caramel, 1/3 scoop vanilla, 1/3 scoop dark chocolate, double shot espresso, whole milk",
+            "choice4": "1/4 scoop caramel, 1/4 scoop vanilla, 1/2 scoop dark chocolate, double shot espresso, Mocha Mix"
+        }
+    },
+    {
+        "quizName": "Classic Recipes",
+        "quizParam": "classicRecipes",
+        "questionType": "multipleChoice",
+        "question": "What is the correct recipe for a medium hot/iced white chocolate-caramel breve?",
+        "answer": "choice3",
+        "answerChoices": {
+            "choice1": "1 scoop white chocolate, 1 scoop caramel, quad shot espressp, whole milk",
+            "choice2": "1/2 scoop white chocolate, 1/2 scoop caramel, double shot espresso, whole milk",
+            "choice3": "1/2 scoop white, 1/2 scoop caramel, double shot espresso, Smooth Mix",
+            "choice4": "1 scoop white chocolate, 1 scoop caramel, double shot espresso, Smooth Mix"
+        }
+    }
+]

@@ -1,0 +1,54 @@
+[
+    {
+        "quizName": "Special 7 Recipes",
+        "quizParam": "special7Recipes",
+        "questionType": "multipleChoice",
+        "question": "What is the correct recipe for a large almond milk Brunette Chiller?",
+        "answer": "choice4",
+        "answerChoices": {
+            "choice1": "4 scoops Brunette, 4 espresso shots, fill to the 12 oz line with almond milk",
+            "choice2": "4 scoops Brunette, 4 espresso shots, fill to the 16 oz line with almond milk",
+            "choice3": "2 scoops Brunette, 2 scoops chocolate, 4 espresso shots, fill to the 16 oz line with almond milk",
+            "choice4": "2 scoops Brunette, 2 scoops chocolate, 4 espresso shots, fill to the 12 oz line with almond milk"
+        }
+    },
+    {
+        "quizName": "Special 7 Recipes",
+        "quizParam": "special7Recipes",
+        "questionType": "multipleChoice",
+        "question": "What is the correct recipe for a medium half-sweet oat milk Blondie Chiller?",
+        "answer": "choice2",
+        "answerChoices": {
+            "choice1": "2 scoops Blondie, 2 espresso shots, fill to the 12 oz line with oat milk",
+            "choice2": "1 1/2 scoops Blondie, 2 espresso shots, fill to the 9 oz line with oat milk",
+            "choice3": "3 scoops Blondie, 2 espresso shots, fill to the 9 oz line with oat milk",
+            "choice4": "2 scoops Blondie, 2 espresso shots, fill to the 9 oz line with oat milk"
+        }
+    },
+    {
+        "quizName": "Special 7 Recipes",
+        "quizParam": "special7Recipes",
+        "questionType": "multipleChoice",
+        "question": "What is the correct recipe for a large decaf mocha chiller?",
+        "answer": "choice1",
+        "answerChoices": {
+            "choice1": "4 scoops chocolate, 4 decaf espresso shots, fill to the 12 with mocha mix",
+            "choice2": "4 scoops chocolate, 4 decaf espresso shots, fill to the 12 with whole milk",
+            "choice3": "4 scoops chocolate, 4 decaf espresso shots, fill to the 16 with whole milk",
+            "choice4": "4 decaf espresso shots, fill to the 12 with mocha mix"
+        }
+    },
+    {
+        "quizName": "Special 7 Recipes",
+        "quizParam": "special7Recipes",
+        "questionType": "multipleChoice",
+        "question": "What is the correct recipe for a large hot skinny vanilla mocha?",
+        "answer": "choice2",
+        "answerChoices": {
+            "choice1": "1/2 scoop vanilla, 1/2 scoop dark chocolate, quad shot espresso, Mocha Mix",
+            "choice2": "1 scoop sugar-free vanilla, 1 scoop sugar-free chocolate, quad shot espresso, skim milk",
+            "choice3": "1 scoop vanilla, 1 scoop chocolate, quad shot espresso, skimn milk",
+            "choice4": "1/2 scoop sugar-free vanilla, 1/2 scoop sugar-free chocolate, quad shot espresso, skim milk"
+        }
+    }
+]

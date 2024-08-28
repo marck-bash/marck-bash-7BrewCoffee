@@ -1,0 +1,33 @@
+[
+    {
+        "quizName": "Originals vs Classics",
+        "quizParam": "originalsVsClassics",
+        "questionType": "selectAll",
+        "question": "Select all Classic coffee drinks:",
+        "answer": ["choice1", "choice5", "choice6", "choice7", "choice10", "choice11"],
+        "answerChoices": {
+            "choice1": "Breve",
+            "choice2": "Smooth 7",
+            "choice3": "Blondie",
+            "choice4": "German Chocolate",
+            "choice5": "House Blend",
+            "choice6": "Cappuccino",
+            "choice7": "Latte",
+            "choice8": "Brunette",
+            "choice9": "7 Fizz",
+            "choice10": "Mocha",
+            "choice11": "Caramel Macchiato"
+        }
+    },
+    {
+        "quizName": "Originals vs Classics",
+        "quizParam": "originalsVsClassics",
+        "questionType": "trueFalse",
+        "question": "A caramel mocha, a hot House Blend, and an Irish cream latte are all Classic Drinks.",
+        "answer": "choice1",
+        "answerChoices": {
+            "choice1": "true",
+            "chocie2": "false"
+        }
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "quizName": "Grinds Adjustment",
+        "quizParam": "grindsAdjustment",
+        "questionType": "multipleChoice",
+        "question": "What should you do if your espresso shots are pulling too short?",
+        "answer": "choice4",
+        "answerChoices": {
+            "choice1": "Tamp harder so that the grinds are more compact.",
+            "choice2": "Adjust the grinder to make the coffee grinds coarser.",
+            "choice3": "If you don't have much time, pull the dosing lever three times instead of two to add in a little more goffee grinds.",
+            "choice4": "Adjust the grinder to make the coffee grinds finer."
+        }
+    },
+    {
+        "quizName": "Grinds Adjustment",
+        "quizParam": "grindsAdjustment",
+        "questionType": "multipleChoice",
+        "question": "What should you do if your espresso shots are pulling too long?",
+        "answer": "choice2",
+        "answerChoices": {
+            "choice1": "Tamp harder so that the grinds are more compact.",
+            "choice2": "Adjust the grinder to make the coffee grinds coarser.",
+            "choice3": "If you don't have much time, pull the dosing lever three times instead of two to add in a little more goffee grinds.",
+            "choice4": "Adjust the grinder to make the coffee grinds finer."
+        }
+    }
+]

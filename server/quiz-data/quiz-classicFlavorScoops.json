@@ -1,0 +1,28 @@
+[
+    {
+        "quizName": "Classic Flavor Scoops",
+        "quizParam": "classicFlavorScoops",
+        "questionType": "multipleChoice",
+        "question": "How many scoops of flavor go in medium Classic drinks?",
+        "answer": "choice1",
+        "answerChoices": {
+            "choice1": "1",
+            "choice2": "2",
+            "choice3": "3",
+            "choice4": "4"
+        }
+    },
+    {
+        "quizName": "Classic Flavor Scoops",
+        "quizParam": "classicFlavorScoops",
+        "questionType": "multipleChoice",
+        "question": "How many scoops of flavor go in large Classic drinks?",
+        "answer": "choice1",
+        "answerChoices": {
+            "choice1": "1",
+            "choice2": "2",
+            "choice3": "3",
+            "choice4": "4"
+        }
+    }
+]

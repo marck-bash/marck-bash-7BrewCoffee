@@ -1,0 +1,29 @@
+[
+    {
+        "quizName": "Classic Espresso Shots",
+        "quizParam": "classicEspressoShots",
+        "questionType": "trueFalse",
+        "question": "All Classic drinks use two espresso shots for a small, two for a medium, and four for a large.",
+        "answer": "choice2",
+        "answerChoices": {
+            "choice1": "true",
+            "chocie2": "false"
+        }
+    },
+    {
+        "quizName": "Classic Espresso Shots",
+        "quizParam": "classicEspressoShots",
+        "questionType": "selectAll",
+        "question": "Select the Classic drinks that use two espresso shots for a small, two for a medium, and four for a large.",
+        "answer": ["choice2", "choice3", "choice4","choice6"],
+        "answerChoices": {
+            "choice1": "House Blend",
+            "choice2": "Latte",
+            "choice3": "Breve",
+            "choice4": "Cappuccino",
+            "choice5": "Cold Brew",
+            "choice6": "Caramel Macchiato",
+            "choice7": "All of the above"
+        }
+    }
+]

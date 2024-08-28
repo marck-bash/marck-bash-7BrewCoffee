@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongodb": "^6.6.2",
+    "nodemailer": "^6.9.13",
+    "nodemon": "^3.1.0",
+    "react-csv": "^2.2.2"
+  },
+  "devDependencies": {
+    "daisyui": "^4.11.1"
+  }
+}
